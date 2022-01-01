@@ -39,14 +39,14 @@ export default defineUserConfig<DefaultThemeOptions>({
         }, 
         {
           text: 'Coding & Combinatorics',
-          link: '/publication/#coding'
+          link: '/publication/#coding-theory-combinatorial-designs-sequences'
         }, 
         ],
       },
-      {
-        text: 'Projects',
-        link: '/projects/',
-      },
+      // {
+      //   text: 'Projects',
+      //   link: '/projects/',
+      // },
       // NavbarGroup
       // {
       //   text: 'Group',
