@@ -72,16 +72,20 @@ title: Members
 
 ### Feng Liu
 - Research Assistant (2019 - 2020) & Master Student (2017 - 2019)
-- Ph.D. Student at USTC
+- **Now**: Ph.D. Student at USTC
 
 ### Weihuang Wen
 - Research Assistant (2021) & Master Student (2018 - 2020) & Undergraduate Student (Graduated in 2018)
-- Programmer at Shenzhen Health Development Research and Data Management Center
+- **Now**: Programmer at Shenzhen Health Development Research and Data Management Center
 
 ### Jiahui Wang
 - Master Student (2018 - 2020)
-- Teacher at 深圳大学附属教育集团外国语中学
+- **Now**: Teacher at 深圳大学附属教育集团外国语中学
+
+### Jerod Michel
+- Postdoctoral Researcher
+- **Now**: Lecture (TT) at Nanjing University of Aeronautics and Astronautics
 
 ### Ziheng Ni
 - Undergraduate Student (Graduated in 2018)
-- Master student at CMU -> Programmer at Amazon Inc.
+- **Now**: Master student at CMU -> Programmer at Amazon Inc.
