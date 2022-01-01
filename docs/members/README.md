@@ -98,7 +98,7 @@ title: Members
 
   ---
 
-  Jiaqi Li received the B.Eng. degree in Computer Science and Technology from South China University of Technology in 2020. His research interests include differential privacy and its application. 
+  Jiaqi Li received the B.Eng. degree in Computer Science and Technology from South China University of Technology in 2020. His research interests is Privacy-preserving contact tracing. 
 
   [[More Information](/members/lijiaqi)]
 
@@ -112,7 +112,18 @@ title: Members
 
 ## Undergraduate Student
 
-### Wenhao Zhang
+<ProfileCard image="/members/zhangwenhao.jpg" hideBorder=true>
+
+  ### Wenhao Zhang
+  :house: Office 417A, South Tower, CoE Building, SUSTech
+
+  ---
+
+  Wenhao Zhang is a final-year undergraduate student at SUSTech. His research interests include cryptography and its application. 
+
+  
+
+</ProfileCard>
 
 
 ## Staff
