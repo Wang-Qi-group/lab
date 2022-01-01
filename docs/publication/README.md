@@ -108,13 +108,13 @@ Papers marked with * use alphabetic ordering of authors, following the conventio
 
 - **Infinite families of 2-designs from two classes of binary cyclic codes with three nonzeros**
 
-    Xiaoni Du, Rong Wang, Chunming Tang, and <u>**Qi Wang**</u>
+    Xiaoni Du, <u>**Rong Wang**</u>, Chunming Tang, and <u>**Qi Wang**</u>
 
     To appear in Advances in Mathematics of Communications
 
 - **Infinite families of 2-designs from linear codes** 
 
-    Xiaoni Du, Rong Wang, Chunming Tang, and <u>**Qi Wang**</u>
+    Xiaoni Du, <u>**Rong Wang**</u>, Chunming Tang, and <u>**Qi Wang**</u>
 
     To appear in Applicable Algebra in Engineering, Communication and Computing
 

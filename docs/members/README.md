@@ -87,10 +87,19 @@ title: Members
 
 ## Alumni
 
+<!-- <ProfileCard image="/members/liufeng.jpg" hideBorder=true> -->
+
+### Rong Wang
+- Research Assistant (2020.8 - 2021.8) 
+- **Now**: Teacher at ...
+
+
+<!-- </ProfileCard> -->
+
 <ProfileCard image="/members/liufeng.jpg" hideBorder=true>
 
   ### Feng Liu
-  - Research Assistant (2019 - 2020) & Master Student (2017 - 2019)
+  - Research Assistant (2019.7 - 2020.8) & Master Student (2017 - 2019)
   - **Now**: Ph.D. Student at USTC
 
   [[More Information](/members/liufeng)] 
