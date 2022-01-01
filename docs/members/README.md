@@ -122,6 +122,7 @@ title: Members
   ### Jerod Michel
   - Postdoctoral Researcher (2016.11 - 2019.8)
   - **Now**: Lecture (TT) at Nanjing University of Aeronautics and Astronautics
+  
   [[LinkedIn](https://www.linkedin.com/in/jerod-michel-26399933/)] 
 
 </ProfileCard>
@@ -129,7 +130,7 @@ title: Members
 <ProfileCard image="/members/niziheng.jpg" hideBorder=true>
 
   ### Ziheng Ni
-  -- Undergraduate Student (Graduated in 2018)
+  - Undergraduate Student (Graduated in 2018)
   - Obtained Master degree at CMU 
   - **Now**: Programmer at Amazon Inc.
   
