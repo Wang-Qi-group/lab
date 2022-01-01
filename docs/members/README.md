@@ -9,6 +9,11 @@ title: Members
 <ProfileCard image="/members/wangqi.jpg" hideBorder=true>
 
   ### Qi Wang
+  :envelope: wangqi@sustech.edu.cn
+
+  :house: Office 413, South Tower, CoE Building, SUSTech
+
+  ---
 
   Dr. Qi Wang received the B.Eng. degree in Information Security from University of Science and Technology of China in 2007, and the Ph.D. degree in Computer Science and Engineering from The Hong Kong University of Science and Technology in 2011. His research interests include Cryptography and its application, Error-correcting codes and Combinatorics.
 
@@ -20,6 +25,11 @@ title: Members
 <ProfileCard image="/members/lirujia.png" hideBorder=true>
 
   ### Rujia Li
+
+  :house: Office 417A, South Tower, CoE Building, SUSTech
+
+  ---
+
 
   Rujia Li received the Bachelor's degrees in both Computer Science and business administration from Wuhan university in 2009. He worked at State Grid Electric Power Research Institute as an R & D engineer from 04/2013 to 11/2014 and at State Grid Information & Telecommunication co. ltd，as a Secure architect assistant from 2014/12 to 2016/08. He started his master study from 2016/09 and received the master degree in computer science from University of Birmingham in 2016. 
   
@@ -34,6 +44,10 @@ title: Members
 <ProfileCard image="/members/liuyi1.jpg" hideBorder=true>
 
   ### Yi Liu
+  :envelope: liuy7@mail.sustech.edu.cn
+
+  ---
+
   Yi Liu received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2018. He is a Ph.D. candidate at HKU and SUSTech (Joint Ph.D. Programme). 
   
   His research interests include cryptographic protocols, such as multi-party computation (MPC), zero-knowledge proofs, etc.
@@ -46,11 +60,15 @@ title: Members
 
 ### Xinrui Zhang
 
+
 ## Master Student
 
 <ProfileCard image="/members/wanggeyang.jpg" hideBorder=true>
 
   ### Geyang Wang
+  :house: Office 417A, South Tower, CoE Building, SUSTech
+
+  ---
 
   Geyang Wang received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019. His research interests include Coding, Cryptography, Coding theory. 
 
@@ -61,6 +79,9 @@ title: Members
 <ProfileCard image="/members/maoyulian.jpg" hideBorder=true>
 
   ### Yulian Mao
+  :house: Office 417A, South Tower, CoE Building, SUSTech
+
+  ---
 
   Yulian Mao received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019. Her research interests include differential privacy and its application. 
 
@@ -71,6 +92,9 @@ title: Members
 <ProfileCard image="/members/lijiaqi.jpg" hideBorder=true>
 
   ### Jiaqi Li
+  :house: Office 417A, South Tower, CoE Building, SUSTech
+
+  ---
 
   Jiaqi Li received the B.Eng. degree in Computer Science and Technology from South China University of Technology in 2020. His research interests include differential privacy and its application. 
 
@@ -82,9 +106,18 @@ title: Members
 
 
 
+
+
 ## Undergraduate Student
 
 ### Wenhao Zhang
+
+
+## Staff
+
+### Nana Lu
+  :house: Office 525, South Tower, CoE Building, SUSTech
+  
 
 ## Alumni
 
@@ -147,4 +180,5 @@ title: Members
   [[LinkedIn](https://www.linkedin.com/in/zihengni/)] 
 
 </ProfileCard>
+
 

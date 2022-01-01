@@ -5,7 +5,6 @@ title: Publication
 
 ---
 
-
 # Publication
 
 Papers marked with * use alphabetic ordering of authors, following the convention of theoretical computer science and mathematics.
