@@ -20,7 +20,11 @@ title: Members
 
   ### Rujia Li
 
-  Research Interest: Blockchain security analysis. Constructing cryptographic protocols based on blockchain. Privacy-preserving Smart Contracts. Formal security proofs.
+  Rujia Li received the Bachelor's degrees in both Computer Science and business administration from Wuhan university in 2009. He worked at State Grid Electric Power Research Institute as an R & D engineer from 04/2013 to 11/2014 and at State Grid Information & Telecommunication co. ltd，as a Secure architect assistant from 2014/12 to 2016/08. He started his master study from 2016/09 and received the master degree in computer science from University of Birmingham in 2016. 
+  
+  He now is a CS PhD candidate at University of Birmingham and Southern University of Science and Technology (Joint PhD Program). 
+
+  His research interests include Blockchain security analysis, Privacy-preserving smart contracts, Cryptographic protocols based on blockchain.
 
   [[More Information](/members/lirujia)] [[Personal Website](https://rujia.uk)]
 
@@ -29,7 +33,9 @@ title: Members
 <ProjectCard image="/members/liuyi1.jpg" hideBorder=true>
 
   ### Yi Liu
-  Yi Liu received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology of China in 2014. His research interests include cryptographic protocols, such as multi-party computation (MPC), zero-knowledge proofs, etc.
+  Yi Liu received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology of China in 2014. He is a Ph.D. candidate at HKU and SUSTech (Joint Ph.D. Programme). 
+  
+  His research interests include cryptographic protocols, such as multi-party computation (MPC), zero-knowledge proofs, etc.
 
   [[More Information](/members/liuyi)] [[Personal Website](https://imliuyi.com)]
 
@@ -61,7 +67,7 @@ title: Members
 
 ### Yiyang Liu
 
-## Jiaqi Li
+### Jiaqi Li
 
 
 ## Undergraduate Student
@@ -88,4 +94,5 @@ title: Members
 
 ### Ziheng Ni
 - Undergraduate Student (Graduated in 2018)
-- **Now**: Master student at CMU -> Programmer at Amazon Inc.
+- Obtained Master degree at CMU 
+- **Now**: Programmer at Amazon Inc.
