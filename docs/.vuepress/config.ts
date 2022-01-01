@@ -62,7 +62,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         components: {
           HomePage: path.resolve(__dirname, './components/HomePage.vue'),
-          ProjectCard: path.resolve(__dirname, './components/ProjectCard.vue'),
+          ProfileCard: path.resolve(__dirname, './components/ProfileCard.vue'),
           ProfileSection: path.resolve(__dirname, './components/ProfileSection.vue'),
         },
       },

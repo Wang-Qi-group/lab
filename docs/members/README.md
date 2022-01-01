@@ -1,22 +1,23 @@
 ---
-sidebar: false
+sidebar: auto
+sidebarDepth: 1
 title: Members
 ---
 
 ## Principal Investigator
 
-<ProjectCard image="/members/wangqi.jpg" hideBorder=true>
+<ProfileCard image="/members/wangqi.jpg" hideBorder=true>
 
   ### Qi Wang
 
   Dr. Qi Wang received the B.Eng. degree in Information Security from University of Science and Technology of China in 2007, and the Ph.D. degree in Computer Science and Engineering from The Hong Kong University of Science and Technology in 2011. His research interests include Cryptography and its application, Error-correcting codes and Combinatorics.
 
   [[Personal Website](https://cse.sustech.edu.cn/faculty/~wangqi/)]
-</ProjectCard>
+</ProfileCard>
 
 ## Ph.D. Student
 
-<ProjectCard image="/members/lirujia.png" hideBorder=true>
+<ProfileCard image="/members/lirujia.png" hideBorder=true>
 
   ### Rujia Li
 
@@ -28,18 +29,18 @@ title: Members
 
   [[More Information](/members/lirujia)] [[Personal Website](https://rujia.uk)]
 
-</ProjectCard>
+</ProfileCard>
 
-<ProjectCard image="/members/liuyi1.jpg" hideBorder=true>
+<ProfileCard image="/members/liuyi1.jpg" hideBorder=true>
 
   ### Yi Liu
-  Yi Liu received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology of China in 2014. He is a Ph.D. candidate at HKU and SUSTech (Joint Ph.D. Programme). 
+  Yi Liu received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2018. He is a Ph.D. candidate at HKU and SUSTech (Joint Ph.D. Programme). 
   
   His research interests include cryptographic protocols, such as multi-party computation (MPC), zero-knowledge proofs, etc.
 
   [[More Information](/members/liuyi)] [[Personal Website](https://imliuyi.com)]
 
-</ProjectCard>
+</ProfileCard>
 
 ## Research Assistant
 
@@ -47,27 +48,37 @@ title: Members
 
 ## Master Student
 
-<ProjectCard image="/members/wanggeyang.jpg" hideBorder=true>
+<ProfileCard image="/members/wanggeyang.jpg" hideBorder=true>
 
   ### Geyang Wang
 
-  Geyang Wang received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology of China in 2015. His research interests include Coding, Cryptography, Coding theory. 
+  Geyang Wang received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019. His research interests include Coding, Cryptography, Coding theory. 
 
+  [[More Information](/members/wanggeyang)] 
 
-</ProjectCard>
+</ProfileCard>
 
-<ProjectCard image="/members/maoyulian.jpg" hideBorder=true>
+<ProfileCard image="/members/maoyulian.jpg" hideBorder=true>
 
   ### Yulian Mao
 
-  Yulian Mao received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology of China in 2015. Her research interests include differential privacy and its application. 
+  Yulian Mao received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019. Her research interests include differential privacy and its application. 
 
 
-</ProjectCard>
+</ProfileCard>
+
+<ProfileCard image="/members/lijiaqi.jpg" hideBorder=true>
+
+  ### Jiaqi Li
+
+  Jiaqi Li received the B.Eng. degree in Computer Science and Technology from South China University of Technology in 2020. His research interests include differential privacy and its application. 
+
+  [[More Information](/members/lijiaqi)]
+
+</ProfileCard>
 
 ### Yiyang Liu
 
-### Jiaqi Li
 
 
 ## Undergraduate Student
@@ -76,20 +87,40 @@ title: Members
 
 ## Alumni
 
-### Feng Liu
-- Research Assistant (2019 - 2020) & Master Student (2017 - 2019)
-- **Now**: Ph.D. Student at USTC
+<ProfileCard image="/members/liufeng.jpg" hideBorder=true>
 
-### Weihuang Wen
-- Research Assistant (2021) & Master Student (2018 - 2020) & Undergraduate Student (Graduated in 2018)
-- **Now**: Programmer at Shenzhen Health Development Research and Data Management Center
+  ### Feng Liu
+  - Research Assistant (2019 - 2020) & Master Student (2017 - 2019)
+  - **Now**: Ph.D. Student at USTC
 
-### Jiahui Wang
-- Master Student (2018 - 2020)
-- **Now**: Teacher at 深圳大学附属教育集团外国语中学
+  [[More Information](/members/liufeng)] 
+
+</ProfileCard>
+
+<ProfileCard image="/members/wenweihuang.png" hideBorder=true>
+
+  ### Weihuang Wen
+  - Research Assistant (2021) & Master Student (2018 - 2020) & Undergraduate Student (Graduated in 2018)
+  - **Now**: Programmer at Shenzhen Health Development Research and Data Management Center
+
+  [[More Information](/members/wenweihuang)] [[Personal Website](https://hughwen.github.io/)]
+
+</ProfileCard>
+
+<ProfileCard image="/members/wangjiahui.jpg" hideBorder=true>
+
+  ### Weihuang Wen
+  - Master Student (2018 - 2020)
+  - **Now**: Teacher at 深圳大学附属教育集团外国语中学
+
+  [[More Information](/members/wangjiahui)] 
+
+</ProfileCard>
+
+
 
 ### Jerod Michel
-- Postdoctoral Researcher
+- Postdoctoral Researcher (2016.11 - 2019.8)
 - **Now**: Lecture (TT) at Nanjing University of Aeronautics and Astronautics
 
 ### Ziheng Ni
