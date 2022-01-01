@@ -25,47 +25,21 @@
 </template>
 
 <script>
-import {
-  GithubFilled,
-  LinkedinFilled,
-  MailFilled,
-  IdcardOutlined,
-  CopyOutlined,
-} from "@vicons/antd";
 import { defineComponent, ref, getCurrentInstance } from "vue";
 import { init } from "ityped";
 import { useMessage } from "naive-ui";
-import { copyText } from "vue3-clipboard";
 
 export default defineComponent({
   data: function () {
     return {
-      // hover_avatar: false,
-      // hover_name: false,
-      here: false,
-      // logo_list: ["/logo.png", "/logo1.jpg", "/logo2.jpg"],
+
     };
   },
   methods: {
-    // mouseEnter(event) {
-    //   // console.log(event)
-    //   this.hover_avatar = true; 
-    // },
-    // mouseLeave(event){
-    //   // console.log(event)
-    //   this.hover_avatar = false; 
-    // }
+
   },
   computed: {
-    // here_logo() {
-    //   if (this.hover_avatar) {
-    //     return 1;
-    //   } else if (this.here) {
-    //     return 2;
-    //   } else {
-    //     return 0;
-    //   }
-    // },
+
   },
   setup() {
     const o = getCurrentInstance();
