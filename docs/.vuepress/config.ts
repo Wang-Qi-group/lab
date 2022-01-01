@@ -34,8 +34,8 @@ export default defineUserConfig<DefaultThemeOptions>({
           link: '/publication/#cryptography-and-its-applications'
         }, 
         {
-          text: 'Coding, Combinatorics, Sequences',
-          link: '/publication/#coding-theory-combinatorial-designs-sequences'
+          text: 'Coding theory, Combinatorics, Sequences',
+          link: '/publication/#coding-theory-combinatorics-sequences'
         }, 
         ],
       },

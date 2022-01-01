@@ -1,14 +1,10 @@
 ---
-# pageClass: about
-# some data for the components
 
 sidebar: auto
 title: Publication
 
-
 ---
-<!-- <div style="padding: 2%"></div> -->
-<!-- <ProfileSection :frontmatter="$page.frontmatter" /> -->
+
 
 # Publication
 
@@ -100,7 +96,7 @@ Papers marked with * use alphabetic ordering of authors, following the conventio
     The 3rd International Workshop on Cryptocurrencies and Blockchain Technology (CBT'19), LNCS no. 11737, Luxembourg, Sep. 26-27, 2019.
 
 
-## Coding theory, Combinatorial designs, Sequences
+## Coding theory, Combinatorics, Sequences
 
 ### To appear
 
