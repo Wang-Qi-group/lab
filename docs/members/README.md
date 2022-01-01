@@ -64,6 +64,7 @@ title: Members
 
   Yulian Mao received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019. Her research interests include differential privacy and its application. 
 
+  [[More Information](/members/maoyulian)] 
 
 </ProfileCard>
 

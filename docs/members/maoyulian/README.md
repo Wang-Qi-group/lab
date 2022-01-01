@@ -3,10 +3,10 @@ pageClass: about
 # some data for the components
 
 sidebar: false
-title: Geyang Wang
+title: Yulian Mao
 
-name: Geyang Wang
-profile: /members/wanggeyang.jpg
+name: Yulian Mao
+profile: /members/maoyulian.jpg
 
 # socials:
 #   - title: github
