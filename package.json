@@ -1,0 +1,28 @@
+{
+  "name": "CoCryptoLab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yi Liu <mail@imliuyi.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-medium-zoom": "^2.0.0-beta.27",
+    "@vuepress/plugin-register-components": "^2.0.0-beta.27",
+    "@vuepress/plugin-search": "^2.0.0-beta.27",
+    "naive-ui": "^2.21.3",
+    "vuepress": "^2.0.0-beta.27"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vicons/antd": "^0.11.0",
+    "@vuepress/plugin-google-analytics": "^2.0.0-beta.27",
+    "ityped": "^1.0.3",
+    "katex": "^0.15.1",
+    "markdown-it-task-lists": "^2.1.1",
+    "stylus": "^0.56.0",
+    "stylus-loader": "^6.2.0",
+    "vue3-clipboard": "^1.0.0"
+  }
+}
