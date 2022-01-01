@@ -1,6 +1,6 @@
 <template>
   <div class="main">
-    <n-grid x-gap="12" :cols="1" style="padding-top: calc(14vh)">
+    <n-grid x-gap="12" :cols="1" style="padding-top: calc(12vh)">
       <n-gi>
         <div id="logo" style="text-align: center">
           <img
@@ -10,14 +10,20 @@
         </div>
       </n-gi>
       <n-gi>
-        <div style="text-align: center; padding-top: calc(4vh)">
-          <span
-            style="font-size: 2.2em"
-            >CoCrypto Lab @ SUSTech</span
+        <div style="text-align: center; padding-top: calc(1.8vh)">
+          <div
+            style="font-size: calc(4.5vh)"
+            >CoCrypto Lab</div
           >
         </div>
-        <div style="text-align: center; padding-top: 8px">
-          <span></span><span id="info"></span>
+        <!-- <div style="text-align: center; padding-top: calc(0.7vh)">
+          <span
+            style="font-size: calc(2.2vh)"
+            >SUSTech</span
+          >
+        </div> -->
+        <div style="text-align: center; padding-top: calc(2vh)">
+          <span></span><span style="font-size: calc(2vh)" id="info"></span>
         </div>
       </n-gi>
     </n-grid>
@@ -59,7 +65,6 @@ export default defineComponent({
         "CoCrypto Lab is at SUSTech. ",
         "The PI of CoCrypto Lab is Qi Wang. ",
         "We do research on Coding Theory and Cryptography. ",
-        "I am interested in cryptographic protocols. ",
         "Welcome to join us. ",
       ],
     });

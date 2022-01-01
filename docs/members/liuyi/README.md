@@ -3,7 +3,7 @@ pageClass: about
 # some data for the components
 
 sidebar: false
-title: About Me
+title: Yi Liu
 
 name: Yi Liu (刘逸)
 profile: /members/liuyi.jpg

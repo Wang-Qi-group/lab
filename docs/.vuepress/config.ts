@@ -4,7 +4,7 @@ const { path } = require('@vuepress/utils')
 
 export default defineUserConfig<DefaultThemeOptions>({
   lang: 'zh-CN',
-  title: 'CoCrypto Lab',
+  title: 'CoCrypto Lab @ SUSTech',
   description: "CoCrypto Lab (编码理论与密码学实验室)",
 
   extendsMarkdown: (md) => {
