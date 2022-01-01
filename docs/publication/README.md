@@ -32,19 +32,19 @@ Papers marked with * use alphabetic ordering of authors, following the conventio
   
     <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
 
-    Information Security and Cryptology. **Inscrypt 2021**. [[ePrint](https://eprint.iacr.org/2021/1430)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r4lFUZ0hVzNpJfVbV?e=MP4v6i)]
+    The 17th International Conference on Information Security and Cryptology (Inscrypt'21), virtually, Aug. 12-14, 2021. [[ePrint](https://eprint.iacr.org/2021/1430)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r4lFUZ0hVzNpJfVbV?e=MP4v6i)]
 
 - **Blind Polynomial Evaluation and Data Trading**
   
     <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
 
-    Applied Cryptography and Network Security. **ACNS 2021**. [[ePrint](https://eprint.iacr.org/2021/413)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r3mbt0dabEcLzhFoH?e=R6uZuh)]
+    The 19th International Conference on Applied Cryptography and Network Security (ACNS'21), online, Kamakura, Japan, Jun. 21-24, 2021. [[ePrint](https://eprint.iacr.org/2021/413)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r3mbt0dabEcLzhFoH?e=R6uZuh)]
 
 - **A Weak Consensus Algorithm and Its Application to High-Performance Blockchain**
 
     Qin Wang, <u>**Rujia Li**</u>
 
-    The 40th IEEE International Conference on Computer Communications (INFOCOM 2021)
+    40th IEEE Conference on Computer Communications (INFOCOM 2021), Online, Vancouver, BC, Canada, May 10-13, 2021
 
 - **An offline delegatable cryptocurrency system** 
   
@@ -56,13 +56,13 @@ Papers marked with * use alphabetic ordering of authors, following the conventio
   
     <u>**Rujia Li**</u>, Qin Wang, <u>**Xinrui Zhang**</u>, <u>**Qi Wang**</u>, David Galindo, Yang Xiang
 
-    The Network and Distributed System Security Symposium (NDSS 2021)
+    28th Annual Network and Distributed System Security Symposium, (NDSS 2021), virtually, Feb. 21-25, 2021
 
 - **A Weak Consensus Algorithm and Its Application to High-Performance Blockchain** *Poster*
   
     Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>
 
-    The Network and Distributed System Security Symposium (NDSS 2021)
+    28th Annual Network and Distributed System Security Symposium, (NDSS 2021), virtually, Feb. 21-25, 2021
 
 ### 2020
 
@@ -76,7 +76,7 @@ Papers marked with * use alphabetic ordering of authors, following the conventio
   
     <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
 
-    Information Security and Cryptology. **Inscrypt 2020**.  [[ePrint](https://eprint.iacr.org/2020/567)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r0A2vDcMbE_xz74Gy?e=NH91na)]
+    The 16th International Conference on Information Security and Cryptology (Inscrypt'20), Guangzhou, China, Dec. 11-14, 2020.  [[ePrint](https://eprint.iacr.org/2020/567)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r0A2vDcMbE_xz74Gy?e=NH91na)]
 
 - **Transparent Certificate Revocation for CBE Based on Blockchain** *Poster*
   
