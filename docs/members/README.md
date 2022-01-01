@@ -14,7 +14,7 @@ title: Members
   [[Personal Website](https://cse.sustech.edu.cn/faculty/~wangqi/)]
 </ProjectCard>
 
-## Ph.D. Students
+## Ph.D. Student
 
 <ProjectCard image="/members/lirujia.png" hideBorder=true>
 
@@ -35,7 +35,11 @@ title: Members
 
 </ProjectCard>
 
-## Master Students
+## Research Assistant
+
+### Xinrui Zhang
+
+## Master Student
 
 <ProjectCard image="/members/wanggeyang.jpg" hideBorder=true>
 
@@ -55,12 +59,29 @@ title: Members
 
 </ProjectCard>
 
-## Undergraduate Students
+### Yiyang Liu
+
+## Jiaqi Li
+
+
+## Undergraduate Student
+
+### Wenhao Zhang
 
 ## Alumni
+
+### Feng Liu
+- Research Assistant (2019 - 2020) & Master Student (2017 - 2019)
+- Ph.D. Student at USTC
+
 ### Weihuang Wen
-Master Student
-Programmer at 一面数据
+- Research Assistant (2021) & Master Student (2018 - 2020) & Undergraduate Student (Graduated in 2018)
+- Programmer at Shenzhen Health Development Research and Data Management Center
+
 ### Jiahui Wang
-Master Student
-Teacher at 深圳大学教育集团外国语学校
+- Master Student (2018 - 2020)
+- Teacher at 深圳大学附属教育集团外国语中学
+
+### Ziheng Ni
+- Undergraduate Student (Graduated in 2018)
+- Master student at CMU -> Programmer at Amazon Inc.

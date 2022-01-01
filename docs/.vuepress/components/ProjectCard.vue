@@ -29,9 +29,10 @@ export default {
     align-items center
     padding 0.5rem
     img 
-      max-width 200px
-      max-height 200px
-      height 200px
+      max-width: 600px
+      // max-height 200px
+      width: 160px
+      // height: 200px
       border: 1px solid #eee;
       border-radius 0.2rem
       object-fit cover

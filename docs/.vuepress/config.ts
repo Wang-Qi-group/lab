@@ -33,6 +33,15 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         text: 'Publication',
         link: '/publication',
+        // children: [{
+        //   text: 'Cryptography',
+        //   link: '/publication/cryptography.md'
+        // }, 
+        // {
+        //   text: 'Coding & Combinatorics',
+        //   link: '/publication/coding.md'
+        // }, 
+        // ],
       },
       {
         text: 'Projects',
