@@ -15,7 +15,9 @@ title: Members
 
   ---
 
-  Dr. Qi Wang received the B.Eng. degree in Information Security from University of Science and Technology of China in 2007, and the Ph.D. degree in Computer Science and Engineering from The Hong Kong University of Science and Technology in 2011. His research interests include Cryptography and its application, Error-correcting codes and Combinatorics.
+  Dr. Qi Wang received the B.Eng. degree in Information Security from University of Science and Technology of China in 2007, and the Ph.D. degree in Computer Science and Engineering from The Hong Kong University of Science and Technology in 2011. 
+  
+  His research interests include Cryptography and its application, Error-correcting codes and Combinatorics.
 
   [[Personal Website](https://cse.sustech.edu.cn/faculty/~wangqi/)]
 </ProfileCard>
@@ -117,7 +119,7 @@ title: Members
 
 ### Nana Lu
   :house: Office 525, South Tower, CoE Building, SUSTech
-  
+
 
 ## Alumni
 
