@@ -27,21 +27,21 @@ export default defineUserConfig<DefaultThemeOptions>({
         link: '/',
       },
       {
-        text: 'Members',
-        link: '/members',
-      },
-      {
         text: 'Publication',
         // link: '/publication',
         children: [{
           text: 'Cryptography',
-          link: '/publication/#cryptography'
+          link: '/publication/#cryptography-and-its-applications'
         }, 
         {
-          text: 'Coding & Combinatorics',
+          text: 'Coding, Combinatorics, Sequences',
           link: '/publication/#coding-theory-combinatorial-designs-sequences'
         }, 
         ],
+      },
+      {
+        text: 'Members',
+        link: '/members',
       },
       // {
       //   text: 'Projects',
