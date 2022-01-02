@@ -1,39 +1,26 @@
 <template>
   <div class="main">
-    <n-grid x-gap="12" :cols="1" style="padding-top: calc(12vh)">
-      <n-gi>
-        <div id="logo" style="text-align: center">
+        <div id="logo" style="text-align: center; padding-top: calc(12vh)">
           <img
             style="width: calc(34vh)"
             src="/logo.png"
           />
         </div>
-      </n-gi>
-      <n-gi>
         <div style="text-align: center; padding-top: calc(1.8vh)">
           <div
             style="font-size: calc(4.5vh)"
             >CoCrypto Lab</div
           >
         </div>
-        <!-- <div style="text-align: center; padding-top: calc(0.7vh)">
-          <span
-            style="font-size: calc(2.2vh)"
-            >SUSTech</span
-          >
-        </div> -->
         <div style="text-align: center; padding-top: calc(2vh)">
           <span></span><span style="font-size: calc(2vh)" id="info"></span>
         </div>
-      </n-gi>
-    </n-grid>
   </div>
 </template>
 
 <script>
-import { defineComponent, ref, getCurrentInstance } from "vue";
+import { defineComponent} from "vue";
 import { init } from "ityped";
-import { useMessage } from "naive-ui";
 
 export default defineComponent({
   data: function () {
@@ -48,9 +35,6 @@ export default defineComponent({
 
   },
   setup() {
-    const o = getCurrentInstance();
-    const email = ref("mail@imliuyi.com");
-    const message = useMessage();
     return {
       
     };
