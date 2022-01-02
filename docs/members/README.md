@@ -247,5 +247,6 @@ title: Members
   [[LinkedIn](https://www.linkedin.com/in/zihengni/)] 
 
 </ProfileCard>
+
 - Lingqi Zhang (BEng 2017; now PhD student at University of Pennsylvania)
 
