@@ -60,6 +60,26 @@ title: Members
 
 </ProfileCard>
 
+<ProfileCard image="/members/no_photo.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Jingrou Wu**</span>
+
+  PhD, since Spring 2020; SUSTech-UTS, co-supervised with Prof. Jin Zhang
+
+  ---
+
+</ProfileCard>
+
+<ProfileCard image="/members/no_photo.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Ning Lu**</span>
+
+  SUSTech-HKUST, since 2021
+
+  ---
+
+</ProfileCard>
+
 ## Research Assistant
 
 <ProfileCard image="/members/no_photo.jpg" hideBorder=true>
