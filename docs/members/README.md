@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-sidebarDepth: 1
+sidebarDepth: 2
 title: Members
 ---
 
@@ -8,7 +8,8 @@ title: Members
 
 <ProfileCard image="/members/wangqi.jpg" hideBorder=true>
 
-  ### Qi Wang
+  <span style="font-size: 20px">**Qi Wang**</span>
+
   :envelope: wangqi@sustech.edu.cn
 
   :round_pushpin:	 Office 413, South Tower, CoE Building, SUSTech
@@ -26,7 +27,7 @@ title: Members
 
 <ProfileCard image="/members/lirujia.png" hideBorder=true>
 
-  ### Rujia Li
+  <span style="font-size: 20px">**Rujia Li**</span>
 
   :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
 
@@ -45,7 +46,8 @@ title: Members
 
 <ProfileCard image="/members/liuyi1.jpg" hideBorder=true>
 
-  ### Yi Liu
+  <span style="font-size: 20px">**Yi Liu**</span>
+
   :envelope: liuy7@mail.sustech.edu.cn
 
   ---
@@ -60,14 +62,23 @@ title: Members
 
 ## Research Assistant
 
-### Xinrui Zhang
+<ProfileCard image="/members/no_photo.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Xinrui Zhang**</span>
+
+  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
+
+  ---
+
+</ProfileCard>
 
 
 ## Master Student
 
 <ProfileCard image="/members/wanggeyang.jpg" hideBorder=true>
 
-  ### Geyang Wang
+  <span style="font-size: 20px">**Geyang Wang**</span>
+
   :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
 
   ---
@@ -80,7 +91,8 @@ title: Members
 
 <ProfileCard image="/members/maoyulian.jpg" hideBorder=true>
 
-  ### Yulian Mao
+  <span style="font-size: 20px">**Yulian Mao**</span>
+
   :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
 
   ---
@@ -93,7 +105,8 @@ title: Members
 
 <ProfileCard image="/members/lijiaqi.jpg" hideBorder=true>
 
-  ### Jiaqi Li
+  <span style="font-size: 20px">**Jiaqi Li**</span>
+
   :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
 
   ---
@@ -104,8 +117,15 @@ title: Members
 
 </ProfileCard>
 
-### Yiyang Liu
+<ProfileCard image="/members/no_photo.jpg" hideBorder=true>
 
+  <span style="font-size: 20px">**Yiyang Liu**</span>
+
+  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
+
+  ---
+
+</ProfileCard>
 
 
 
@@ -114,7 +134,8 @@ title: Members
 
 <ProfileCard image="/members/zhangwenhao.jpg" hideBorder=true>
 
-  ### Wenhao Zhang
+  <span style="font-size: 20px">**Wenhao Zhang**</span>
+
   :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
 
   ---
@@ -128,25 +149,34 @@ title: Members
 
 ## Staff
 
-### Nana Lu
+<ProfileCard image="/members/no_photo.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Nana Lu**</span>
+  
   :round_pushpin:	 Office 525, South Tower, CoE Building, SUSTech
+</ProfileCard>
 
 
 ## Alumni
 
 <!-- <ProfileCard image="/members/liufeng.jpg" hideBorder=true> -->
 
-### Rong Wang
-- Research Assistant (2020.8 - 2021.8) 
-- **Now**: Teacher at ...
+### Former RAs, graduate students, and postdocs
 
+<ProfileCard image="/members/no_photo.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Rong Wang**</span>
+  - Research Assistant (2020.8 - 2021.8) 
+  - **Now**: Teacher at ...
+  
+</ProfileCard>
 
 <!-- </ProfileCard> -->
 
 <ProfileCard image="/members/liufeng.jpg" hideBorder=true>
 
-  ### Feng Liu
-  - Research Assistant (2019.7 - 2020.8) & Master Student (2017 - 2019)
+  <span style="font-size: 20px">**Feng Liu**</span>
+  - Research Assistant (2019.7 - 2020.8) & Master 2019
   - **Now**: Ph.D. Student at USTC
 
   [[More Information](/members/liufeng.md)] 
@@ -155,8 +185,8 @@ title: Members
 
 <ProfileCard image="/members/wenweihuang.png" hideBorder=true>
 
-  ### Weihuang Wen
-  - Research Assistant (2021) & Master Student (2018 - 2020) & Undergraduate Student (Graduated in 2018)
+  <span style="font-size: 20px">**Weihuang Wen**</span>
+  - Research Assistant (2021) & Master 2020 & BEng 2018
   - **Now**: Programmer at Shenzhen Health Development Research and Data Management Center
 
   [[More Information](/members/wenweihuang.md)] [[Personal Website](https://hughwen.github.io/)]
@@ -165,8 +195,8 @@ title: Members
 
 <ProfileCard image="/members/wangjiahui.jpg" hideBorder=true>
 
-  ### Weihuang Wen
-  - Master Student (2018 - 2020)
+  <span style="font-size: 20px">**Jiahui Wang**</span>
+  - Master 2020
   - **Now**: Teacher at 深圳大学附属教育集团外国语中学
 
   [[More Information](/members/wangjiahui.md)] 
@@ -175,23 +205,47 @@ title: Members
 
 <ProfileCard image="/members/jerod.jpg" hideBorder=true>
 
-  ### Jerod Michel
-  - Postdoctoral Researcher (2016.11 - 2019.8)
-  - **Now**: Lecture (TT) at Nanjing University of Aeronautics and Astronautics
+  <span style="font-size: 20px">**Jerod Michel**</span>
+  - Postdoctoral Researcher (2017 - 2019)
+  - **Now**: Lecture (TT) at Nanjing University of Aeronautics and Astronautics (NUAA)
   
   [[LinkedIn](https://www.linkedin.com/in/jerod-michel-26399933/)] 
 
 </ProfileCard>
 
+<ProfileCard image="/members/no_photo.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Zhijian Zhang**</span>
+  - Master 2018
+  - First employment: Vivo Tech
+  
+</ProfileCard>
+
+### Former undergraduate students
+
+- Dong Chen (BEng 2020; first employment: Huawei)
+- Deyuan Chen (BEng 2020; now Master student at CMU)
+- Jinghan Lu (BEng 2020; now Master student at SUSTech)
+- Zhirui Lu (BEng 2020; first employment: Huawei)
+- Honglin Zhu (BEng 2020; first employment: Tencent)
+- Shiyi Li (BEng 2020, Summa Cum Laude; first employment: Tencent)
+- Tianzhe Yang (BEng 2019; first employment: Netease Games)
+- Yulian Mao (BEng 2019; now Master student at SUSTech)
+- Geyang Wang (BEng 2019; now Master student at SUSTech)
+- Wenshao Zhong (BEng 2019; now PhD student at University of Illinois at Chicago)
+- Xiangyi Yan (BEng 2019; now PhD student at University of California at Irvine)
+- Weihuang Wen (BEng 2018; Master student 2018-2020 at SUSTech)
+- Yi Liu (BEng 2018; now PhD student at SUSTech-HKU)
+
 <ProfileCard image="/members/niziheng.jpg" hideBorder=true>
 
-  ### Ziheng Ni
-  - Undergraduate Student (Graduated in 2018)
-  - Obtained Master degree at CMU 
+  <span style="font-size: 20px">**Ziheng Ni**</span>
+  - BEng 2018
+  - Master student 2018 - 2020 at CMU
   - **Now**: Programmer at Amazon Inc.
   
   [[LinkedIn](https://www.linkedin.com/in/zihengni/)] 
 
 </ProfileCard>
-
+- Lingqi Zhang (BEng 2017; now PhD student at University of Pennsylvania)
 

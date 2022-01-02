@@ -1,6 +1,5 @@
 ---
 pageClass: about
-# some data for the components
 
 sidebar: [{
           text: 'Members',
@@ -38,7 +37,7 @@ sidebar: [{
 title: Yi Liu
 
 name: Yi Liu (刘逸)
-profile: /members/liuyi.jpg
+profile: /members/liuyi1.jpg
 
 socials:
   - title: github
@@ -47,9 +46,10 @@ socials:
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
     link: https://www.linkedin.com/in/%E9%80%B8-%E5%88%98-363764114/
+  - title: Google Scholar
+    icon: "/icons/google-scholar.svg"
+    link: https://scholar.google.com.hk/citations?user=pKOcyg0AAAAJ
 
-# cv: https://en.wikipedia.org/wiki/Harry_Potter
-# bio: Ph.D. Student at HKU
 email: mail@imliuyi.com
 ---
 <div style="padding: 2%"></div>
@@ -58,12 +58,6 @@ email: mail@imliuyi.com
 ## About Me
 
 I am a Ph.D. student at Computer Science Department of The University of Hong Kong (HKU). My research interests include **cryptography**, **privacy**, and **blockchain**. I'm mainly working on **cryptographic protocols**, such as **multi-party computation (MPC)**, **zero-knowledge proofs**, etc.
-
-<!-- ## News
-
-- [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain -->
-
 
 ## Education
 
@@ -141,34 +135,6 @@ I am a Ph.D. student at Computer Science Department of The University of Hong Ko
   - CS304: Software Engineering (SUSTech Spring 2017)
   - CS201: Discrete Mathematics (SUSTech Fall 2016) 
   - CS302: Operating System (SUSTech Spring 2016)
-
-
-
-<!-- [→ Full list](/projects/) -->
-
-<!-- <ProjectCard image="/papers/papers_pic/BPE.png" hideBorder=true>
-
-  **Making Private Function Evaluation Safer, Faster, and Simpler**
-  
-  <u>**Yi Liu**</u>, Qi Wang, Siu-Ming Yiu 
-
-  To appear in Public-Key Cryptography. PKC 2022.
-  
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
-
-</ProjectCard> -->
-
-<!-- <ProjectCard hideBorder=true>
-
-  **Making Private Function Evaluation Safer, Faster, and Simpler**
-  
-  <u>**Yi Liu**</u>, Qi Wang, Siu-Ming Yiu 
-
-  To appear in Public-Key Cryptography. PKC 2022. [[ePrint](https://eprint.iacr.org/2021/1682)]
-
-</ProjectCard> -->
 
 
 

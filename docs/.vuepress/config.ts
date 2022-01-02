@@ -43,6 +43,10 @@ export default defineUserConfig<DefaultThemeOptions>({
         text: 'Members',
         link: '/members',
       },
+      {
+        text: 'Join Us',
+        link: '/join_us',
+      },
       // {
       //   text: 'Projects',
       //   link: '/projects/',
