@@ -28,7 +28,7 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
   
     <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
 
-    To appear in Public-Key Cryptography. **PKC 2022**. [[ePrint](https://eprint.iacr.org/2021/1682)]
+    To appear in Public-Key Cryptography, (**PKC 2022**). [[ePrint](https://eprint.iacr.org/2021/1682)]
 
 
 ### 2021
@@ -132,7 +132,7 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
     Xiaoni Du, <u>**Rong Wang**</u>, Chunming Tang, and <u>**Qi Wang**</u>
 
-    To appear in Advances in Mathematics of Communications, vol. 16, pp. 157-168, 2022
+    Advances in Mathematics of Communications, vol. 16, pp. 157-168, 2022
 
 ### 2021
 
