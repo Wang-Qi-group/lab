@@ -11,16 +11,16 @@ collapsible: true
 Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, following the convention of theoretical computer science and mathematics.
 
 
-<span style="color: blue; ">:tada: **See the papers from different fields:**</span>
+:tada: <span style="color: blue; ">**Papers by area:**</span>
 
 
-- [Cryptography and Its Applications](./#cryptography-and-its-applications) 
+- [Cryptography](./#cryptography) 
 
-- [Coding theory, Combinatorics, Sequences](./#coding-theory-combinatorics-sequences)
+- [Coding theory and Combinatorics](./#coding-theory-and-combinatorics)
 
 
 
-## Cryptography and Its Applications
+## Cryptography
 
 ### 2022
 
@@ -37,37 +37,37 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
   
     <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
 
-    The 17th International Conference on Information Security and Cryptology (Inscrypt'21), virtually, Aug. 12-14, 2021. [[ePrint](https://eprint.iacr.org/2021/1430)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r4lFUZ0hVzNpJfVbV?e=MP4v6i)]
+    The 17th International Conference on Information Security and Cryptology (**Inscrypt'21**), virtually, Aug. 12-14, 2021. [[ePrint](https://eprint.iacr.org/2021/1430)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r4lFUZ0hVzNpJfVbV?e=MP4v6i)]
 
 - **Blind Polynomial Evaluation and Data Trading**
   
     <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
 
-    The 19th International Conference on Applied Cryptography and Network Security (ACNS'21), online, Kamakura, Japan, Jun. 21-24, 2021. [[ePrint](https://eprint.iacr.org/2021/413)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r3mbt0dabEcLzhFoH?e=R6uZuh)]
+    The 19th International Conference on Applied Cryptography and Network Security (**ACNS'21**), online, Kamakura, Japan, Jun. 21-24, 2021. [[ePrint](https://eprint.iacr.org/2021/413)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r3mbt0dabEcLzhFoH?e=R6uZuh)]
 
 - **A Weak Consensus Algorithm and Its Application to High-Performance Blockchain**
 
     Qin Wang, <u>**Rujia Li**</u>
 
-    40th IEEE Conference on Computer Communications (INFOCOM 2021), Online, Vancouver, BC, Canada, May 10-13, 2021
+    40th IEEE Conference on Computer Communications (**INFOCOM 2021**), Online, Vancouver, BC, Canada, May 10-13, 2021
 
 - **An offline delegatable cryptocurrency system** 
   
     <u>**Rujia Li**</u>, Qin Wang, <u>**Xinrui Zhang**</u>, <u>**Qi Wang**</u>, David Galindo, Yang Xiang
 
-    The 3rd IEEE International Conference on Blockchain and Cryptocurrency (ICBC'21), online, May 3-6, 2021.
+    The 3rd IEEE International Conference on Blockchain and Cryptocurrency (**ICBC'21**), online, May 3-6, 2021.
 
-- **An Offline Delegatable Cryptocurrency System** *Poster*
+- **An Offline Delegatable Cryptocurrency System** <Badge text="Poster" />
   
     <u>**Rujia Li**</u>, Qin Wang, <u>**Xinrui Zhang**</u>, <u>**Qi Wang**</u>, David Galindo, Yang Xiang
 
-    28th Annual Network and Distributed System Security Symposium, (NDSS 2021), virtually, Feb. 21-25, 2021
+    28th Annual Network and Distributed System Security Symposium, (**NDSS 2021**), virtually, Feb. 21-25, 2021
 
-- **A Weak Consensus Algorithm and Its Application to High-Performance Blockchain** *Poster*
+- **A Weak Consensus Algorithm and Its Application to High-Performance Blockchain** <Badge text="Poster" />
   
     Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>
 
-    28th Annual Network and Distributed System Security Symposium, (NDSS 2021), virtually, Feb. 21-25, 2021
+    28th Annual Network and Distributed System Security Symposium, (**NDSS 2021**), virtually, Feb. 21-25, 2021
 
 ### 2020
 
@@ -75,7 +75,7 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
     <u>**Rujia Li**</u>, Qin Wang, <u>**Feng Liu**</u>, <u>**Qi Wang**</u>, David Galindo
 
-    The 23rd International Conference on Information Security (ISC'20), Bali, Indonesia, Dec. 16-18, 2020.
+    The 23rd International Conference on Information Security (ISC'20), Bali, Indonesia, Dec. 16-18, 2020
 
 - **An Improvement of Multi-Exponentiation with Encrypted Bases Argument: Smaller and Faster**
   
@@ -83,11 +83,11 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
     The 16th International Conference on Information Security and Cryptology (Inscrypt'20), Guangzhou, China, Dec. 11-14, 2020.  [[ePrint](https://eprint.iacr.org/2020/567)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r0A2vDcMbE_xz74Gy?e=NH91na)]
 
-- **Transparent Certificate Revocation for CBE Based on Blockchain** *Poster*
+- **Transparent Certificate Revocation for CBE Based on Blockchain** <Badge text="Poster" />
   
     Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>, David Galindo
 
-    The 41st IEEE Symposium on Security and Privacy (S&P'20), online, May 18-20, 2020.
+    The 41st IEEE Symposium on Security and Privacy (**S&P'20**), online, May 18-20, 2020
 
 ### 2019
 
@@ -95,37 +95,52 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
     <u>**Feng Liu**</u> and <u>**Qi Wang**</u>
 
-    The 2019 IEEE Vehicular Networking Conference (VNC'19), Los Angeles, California, USA, Dec. 4-6, 2019.
+    The 2019 IEEE Vehicular Networking Conference (**VNC'19**), Los Angeles, California, USA, Dec. 4-6, 2019.
 
 
 - **Auditable credential anonymity revocation based on privacy-preserving smart contracts**
   
     <u>**Rujia Li**</u>, David Galindo, <u>**Qi Wang**</u>
 
-    The 3rd International Workshop on Cryptocurrencies and Blockchain Technology (CBT'19), LNCS no. 11737, Luxembourg, Sep. 26-27, 2019.
+    The 3rd International Workshop on Cryptocurrencies and Blockchain Technology (**CBT'19**), LNCS no. 11737, Luxembourg, Sep. 26-27, 2019
 
 
-## Coding theory, Combinatorics, Sequences
+## Coding theory and Combinatorics
 
 ### To appear
 
-- **New construction of optimal type-II binary Z-complementary pairs**
+- **A class of binary cyclic codes with optimal parameters, Cryptography and Communications**
+  
+    Kaiqiang Liu, <u>**Qi Wang**</u>, and Haode Yan
 
-    Zhi Gu, Zhengchun Zhou, <u>**Qi Wang**</u>, and Pingzhi Fan
+    Cryptography and Communications, https://doi.org/10.1007/s12095-021-00548-1, published online
 
-    To appear in IEEE Transactions on Information Theory
+- **Parameters and characterizations of hulls of some projective narrow-sense BCH codes**
+    Yuwen Huang, Chengju Li, <u>**Qi Wang**</u>, and Zongrun Du
 
-- **Infinite families of 2-designs from two classes of binary cyclic codes with three nonzeros**
-
-    Xiaoni Du, <u>**Rong Wang**</u>, Chunming Tang, and <u>**Qi Wang**</u>
-
-    To appear in Advances in Mathematics of Communications
+    Designs Codes and Cryptography, https://doi.org/10.1007/s10623-021-00965-6, published online
 
 - **Infinite families of 2-designs from linear codes** 
 
     Xiaoni Du, <u>**Rong Wang**</u>, Chunming Tang, and <u>**Qi Wang**</u>
 
     To appear in Applicable Algebra in Engineering, Communication and Computing
+
+### 2022
+
+- **Infinite families of 2-designs from two classes of binary cyclic codes with three nonzeros**
+
+    Xiaoni Du, <u>**Rong Wang**</u>, Chunming Tang, and <u>**Qi Wang**</u>
+
+    To appear in Advances in Mathematics of Communications, vol. 16, pp. 157-168, 2022
+
+### 2021
+
+- **New construction of optimal type-II binary Z-complementary pairs**
+
+    Zhi Gu, Zhengchun Zhou, <u>**Qi Wang**</u>, and Pingzhi Fan
+
+    IEEE Transactions on Information Theory, vol. 67, pp. 3497-3508, 2021
 
 
 ### 2020 
@@ -151,11 +166,17 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
 ### 2019
 
+- **Cyclotomy, difference sets, sequences with low correlation, strongly regular graphs and related geometric substructures**
+
+    Koji Momihara, <u>**Qi Wang**</u> and Qing Xiang
+
+    In Kai-Uwe Schmidt, Arne Winterhof (Eds.) Combinatorics and Finite Fields, RICAM Radon Series on Computational and Applied Mathematics vol. 23, pp. 173-198, Berlin, Boston: De Gruyter, 2019
+
 - **An OACF-preserving operation based on Parker's transformation** <Badge text="Alpha" />
   
     Geyang Wang and <u>**Qi Wang**</u>, 
 
-    The 9th International Workshop on Signal Design and its Applications in Communications (IWSDA'19), Dongguan, China, Oct. 20-24, 2019.  
+    The 9th International Workshop on Signal Design and its Applications in Communications (**IWSDA'19**), Dongguan, China, Oct. 20-24, 2019.  
 
 - **Partial geometric designs from group actions** <Badge text="Alpha" />
 
@@ -221,7 +242,7 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
     Alexander Pott and <u>**Qi Wang**</u>
 
-    The International Workshop on the Arithmetic of finite fields (WAIFI'14), LNCS no. 9061, Springer, Heidelberg, Gebze, Turkey, Sep. 26-28, 2014.
+    The International Workshop on the Arithmetic of finite fields (**WAIFI'14**), LNCS no. 9061, Springer, Heidelberg, Gebze, Turkey, Sep. 26-28, 2014
 
 - **Three new families of zero-difference balanced functions with applications** <Badge text="Alpha" />
 
@@ -253,7 +274,7 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
     Gohar Kyureghyan and <u>**Qi Wang**</u>
 
-    International Workshop on Coding and Cryptography (WCC'13), Bergen, Norway, Apr. 15-19, 2013.
+    International Workshop on Coding and Cryptography (**WCC'13**), Bergen, Norway, Apr. 15-19, 2013
 
 ### 2012
 
@@ -261,7 +282,7 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
     Alexander Pott, <u>**Qi Wang**</u>, and Yue Zhou 
 
-    The International Workshop on the Arithmetic of finite fields (WAIFI'12), LNCS no. 7369, Springer, Heidelberg, Bochum, Germany, Jul. 16-19, 2012.
+    The International Workshop on the Arithmetic of finite fields (**WAIFI'12**), LNCS no. 7369, Springer, Heidelberg, Bochum, Germany, Jul. 16-19, 2012
 
 ### 2011
 
@@ -283,7 +304,7 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
     <u>**Qi Wang**</u> and Xiaoni Du
 
-    The 2010 IEEE International Symposium on Information Theory (ISIT 2010), Austin, Texas, USA, Jun. 13-18, 2010.
+    The 2010 IEEE International Symposium on Information Theory (**ISIT 2010**), Austin, Texas, USA, Jun. 13-18, 2010.
 
 - **The linear complexity of some binary sequences with three-level autocorrelation**
 

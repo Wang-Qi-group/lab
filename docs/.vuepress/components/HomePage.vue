@@ -62,10 +62,8 @@ export default defineComponent({
       backDelay: 1500,
       showCursor: true,
       strings: [
-        "CoCrypto Lab is at SUSTech. ",
-        "The PI of CoCrypto Lab is Qi Wang. ",
-        "We do research on Coding Theory and Cryptography. ",
-        "Welcome to join us. ",
+        "Welcome to the CoCrypto Lab @ SUSTech, led by Prof. Qi WANG! ",
+        "We do research on Coding theory and Cryptography. ",
       ],
     });
   },
