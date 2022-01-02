@@ -19,8 +19,9 @@
 </template>
 
 <script>
-import { defineComponent} from "vue";
+import { defineComponent, ref, getCurrentInstance } from "vue";
 import { init } from "ityped";
+// import { useMessage } from "naive-ui";
 
 export default defineComponent({
   data: function () {
@@ -35,6 +36,9 @@ export default defineComponent({
 
   },
   setup() {
+    const o = getCurrentInstance();
+    const email = ref("mail@imliuyi.com");
+    // const message = useMessage();
     return {
       
     };

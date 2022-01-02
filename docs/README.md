@@ -5,6 +5,6 @@ pageClass: home
 sidebar: false
 ---
 
-<n-message-provider placement="top">
+<!-- <n-message-provider placement="top"> -->
 <HomePage/>
-</n-message-provider>
+<!-- </n-message-provider> -->
