@@ -40,7 +40,7 @@ title: Members
 
   His research interests include Blockchain security analysis, Privacy-preserving smart contracts, Cryptographic protocols based on blockchain.
 
-  [[More Information](/members/lirujia.md)] [[Personal Website](https://rujia.uk)]
+  [[Personal Website](https://rujia.uk)]
 
 </ProfileCard>
 
@@ -70,13 +70,15 @@ title: Members
 
 </ProfileCard> -->
 
-<ProfileCard image="/members/no_photo.jpg" hideBorder=true>
+<ProfileCard image="/members/luning1.png" hideBorder=true>
 
   <span style="font-size: 20px">**Ning Lu**</span>
 
-  SUSTech-HKUST, since 2021
-
-  ---
+  Ning Lu received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2020. He is a Ph.D. student at HKUST and SUSTech (Joint Ph.D. Programme).
+  
+  His reasearch interest includes adversarial attack of AI, robustness of neural network, etc. 
+  
+  [[More Information](/members/luning.md)]
 
 </ProfileCard>
 
@@ -137,15 +139,7 @@ title: Members
 
 </ProfileCard>
 
-<ProfileCard image="/members/no_photo.jpg" hideBorder=true>
 
-  <span style="font-size: 20px">**Yiyang Liu**</span>
-
-  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
-
-  ---
-
-</ProfileCard>
 
 
 
@@ -162,14 +156,28 @@ title: Members
 
   Wenhao Zhang is a final-year undergraduate student at SUSTech. His research interests include cryptography and its application. 
 
+  [[Personal Website](https://wzhang.cc/)]
+
+</ProfileCard>
+
+<ProfileCard image="/members/liyuanzhao.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Yuanzhao Li**</span>
+
+  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
+
+  ---
+
+  He is an undergraduate from Southern University of Science and Technology (SUSTech). His research interests include cryptography, trusted execution environment, and blockchain. 
+  
+[[More Information](/members/liyz.md)]
   
 
 </ProfileCard>
 
-
 ## Staff
 
-<ProfileCard image="/members/no_photo.jpg" hideBorder=true>
+<ProfileCard image="/members/lunana.jpg" hideBorder=true>
 
   <span style="font-size: 20px">**Nana Lu**</span>
   
@@ -183,11 +191,11 @@ title: Members
 
 ### Former RAs, graduate students, and postdocs
 
-<ProfileCard image="/members/no_photo.jpg" hideBorder=true>
+<ProfileCard image="/members/wangrong.jpg" hideBorder=true>
 
   <span style="font-size: 20px">**Rong Wang**</span>
   - Research Assistant (2020.8 - 2021.8) 
-  - **Now**: Teacher at ...
+  - **Now**: Teacher at 甘肃省环县第四中学
   
 </ProfileCard>
 

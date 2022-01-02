@@ -1,38 +1,75 @@
 ---
 pageClass: about
-# some data for the components
 
-sidebar: false
+sidebar: [{
+          text: 'Members',
+          children: [
+            {
+              text: 'Principal Investigator',
+              link: '/members#principal-investigator'
+            },
+            {
+              text: 'Ph.D. Student',
+              link: '/members#ph-d-student'
+            },
+            {
+              text: 'Research Assistant',
+              link: '/members#research-assistant'
+            },
+            {
+              text: 'Master Student',
+              link: '/members#master-student'
+            },
+            {
+              text: 'Undergraduate Student',
+              link: '/members#undergraduate-student'
+            },
+            {
+              text: 'Staff',
+              link: '/members#staff'
+            },
+            {
+              text: 'Alumni',
+              link: '/members#alumni'
+            }
+          ]
+        }]
 title: Yulian Mao
 
-name: Yulian Mao
+name: Yulian Mao (毛玉莲)
 profile: /members/maoyulian.jpg
 
-# socials:
-#   - title: github
-#     icon: "/icons/github.svg"
-#     link: https://github.com/liu-yi
-#   - title: linkedin
-#     icon: "/icons/linkedin-mono.svg"
-#     link: https://www.linkedin.com/in/%E9%80%B8-%E5%88%98-363764114/
 
-# cv: https://en.wikipedia.org/wiki/Harry_Potter
-# bio: Ph.D. Student at HKU
-# email: mail@imliuyi.com
+
+email: maoyl2019 AT mail.sustech.edu.cn
 ---
 <div style="padding: 2%"></div>
 <ProfileSection :frontmatter="$page.frontmatter" />
 
+## About Me
 
-Research Interest:
+I am a Master student at Computer Science Department of Southern University of Science and Technology (SUSTech). My research interests include **differential privacy** and **data mining**. I'm mainly working on **data publication under local differential privacy**.
 
-Differential Privacy and Its Application
+## Education
 
- 
+- **Southern University of Science and Technology (SUSTech)** *Sept. 2019 – Present* 
+  - Master Candidate
+  - Supervisor:[Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/)
+- **Southern University of Science and Technology (SUSTech)** *Sept. 2015 – July 2019*
+  - B.Eng. in Computer Science and Technology 
 
-Education:
 
-2015/09 - 2019/06, Southern University of Science and Technology, Department of Computer Science and Technology, Bachelor
+## Awards & Honors
+- **National Encouragement Scholarship**  **2016,2017,2018**
+- **American Interdisciplinary Contest In Modeling** (Honorable Mention) **2017**
+
+
+## Experience
+
+- **Teaching Assistant**
+  - CS203: Data Structure and Algorithm Analysis (SUSTech Fall 2018)
+  - CS201: Discrete Mathematics (SUSTech Fall 2019) 
+
 
 
 
