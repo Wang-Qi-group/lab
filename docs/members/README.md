@@ -10,7 +10,7 @@ title: Members
 
   <span style="font-size: 20px">**Qi Wang**</span>
 
-  :envelope: wangqi@sustech.edu.cn
+  :envelope: wangqi (at) sustech.edu.cn
 
   :round_pushpin:	 Office 413, South Tower, CoE Building, SUSTech
 
@@ -48,7 +48,7 @@ title: Members
 
   <span style="font-size: 20px">**Yi Liu**</span>
 
-  :envelope: liuy7@mail.sustech.edu.cn
+  :envelope: liuy7 (at) mail.sustech.edu.cn
 
   ---
 
@@ -60,7 +60,7 @@ title: Members
 
 </ProfileCard>
 
-<ProfileCard image="/members/no_photo.jpg" hideBorder=true>
+<!-- <ProfileCard image="/members/no_photo.jpg" hideBorder=true>
 
   <span style="font-size: 20px">**Jingrou Wu**</span>
 
@@ -68,7 +68,7 @@ title: Members
 
   ---
 
-</ProfileCard>
+</ProfileCard> -->
 
 <ProfileCard image="/members/no_photo.jpg" hideBorder=true>
 
