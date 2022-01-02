@@ -28,16 +28,16 @@ export default defineUserConfig<DefaultThemeOptions>({
       },
       {
         text: 'Publication',
-        // link: '/publication',
-        children: [{
-          text: 'Cryptography',
-          link: '/publication/#cryptography-and-its-applications'
-        }, 
-        {
-          text: 'Coding theory, Combinatorics, Sequences',
-          link: '/publication/#coding-theory-combinatorics-sequences'
-        }, 
-        ],
+        link: '/publication',
+        // children: [{
+        //   text: 'Cryptography',
+        //   link: '/publication/#cryptography-and-its-applications'
+        // }, 
+        // {
+        //   text: 'Coding theory, Combinatorics, Sequences',
+        //   link: '/publication/#coding-theory-combinatorics-sequences'
+        // }, 
+        // ],
       },
       {
         text: 'Members',
@@ -73,12 +73,10 @@ export default defineUserConfig<DefaultThemeOptions>({
         selector: ':not(a, #logo) > img'
       }
     ],
-    [
-      '@vuepress/plugin-google-analytics',
-      {
-        id: 'G-V6PJ8BXB1K',
-      },
-    ],
+    // [
+    //   '@vuepress/plugin-toc@next', 
+      
+    // ]
     
     // [
     //   '@vuepress/plugin-search',

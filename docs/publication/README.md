@@ -2,12 +2,22 @@
 
 sidebar: auto
 title: Publication
+collapsible: true
 
 ---
 
 # Publication
 
-Papers marked with * use alphabetic ordering of authors, following the convention of theoretical computer science and mathematics.
+Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, following the convention of theoretical computer science and mathematics.
+
+
+<span style="color: blue; ">:tada: **See the papers from different fields:**</span>
+
+
+- [Cryptography and Its Applications](./#cryptography-and-its-applications) 
+
+- [Coding theory, Combinatorics, Sequences](./#coding-theory-combinatorics-sequences)
+
 
 
 ## Cryptography and Its Applications
@@ -120,13 +130,13 @@ Papers marked with * use alphabetic ordering of authors, following the conventio
 
 ### 2020 
 
-- **\* Placement delivery arrays from combinations of strong edge colorings**
+- **Placement delivery arrays from combinations of strong edge colorings** <Badge text="Alpha" />
 
     <u>**Jerod Michel**</u> and <u>**Qi Wang**</u>
 
     IEEE Transactions on Communications, vol. 68, pp. 5953-5964, 2020
 
-- **\*New nonexistence results on $(m,n)$-generalized bent functions** 
+- **New nonexistence results on $(m,n)$-generalized bent functions** <Badge text="Alpha" />
 
     Ka Hin Leung and <u>**Qi Wang**</u>
 
@@ -141,13 +151,13 @@ Papers marked with * use alphabetic ordering of authors, following the conventio
 
 ### 2019
 
-- **\* An OACF-preserving operation based on Parker's transformation**
+- **An OACF-preserving operation based on Parker's transformation** <Badge text="Alpha" />
   
     Geyang Wang and <u>**Qi Wang**</u>, 
 
     The 9th International Workshop on Signal Design and its Applications in Communications (IWSDA'19), Dongguan, China, Oct. 20-24, 2019.  
 
-- **\* Partial geometric designs from group actions**
+- **Partial geometric designs from group actions** <Badge text="Alpha" />
 
     <u>**Jerod Michel**</u> and <u>**Qi Wang**</u>
 
@@ -159,19 +169,19 @@ Papers marked with * use alphabetic ordering of authors, following the conventio
 
     IEEE Transactions on Information Theory, vol. 65, pp. 6819-6826, 2019
 
-- **\* Almost designs and their links with balanced incomplete block designs**
+- **Almost designs and their links with balanced incomplete block designs** <Badge text="Alpha" />
 
     <u>**Jerod Michel**</u> and <u>**Qi Wang**</u>
 
     Designs Codes and Cryptography, vol. 87, pp. 1945-1960, 2019
 
-- **\* Almost difference sets in nonabelian groups**
+- **Almost difference sets in nonabelian groups** <Badge text="Alpha" />
 
     <u>**Jerod Michel**</u> and <u>**Qi Wang**</u>
 
     Designs Codes and Cryptography, vol. 87, pp. 1243-1251, 2019
 
-- **\* Some new balanced and almost balanced quaternary sequences with low autocorrelation**
+- **Some new balanced and almost balanced quaternary sequences with low autocorrelation** <Badge text="Alpha" />
 
     <u>**Jerod Michel**</u> and <u>**Qi Wang**</u>
 
@@ -179,7 +189,7 @@ Papers marked with * use alphabetic ordering of authors, following the conventio
 
 ### 2017 
 
-- **\* LDPC codes based on the space of symmetric matrices over finite fields**
+- **LDPC codes based on the space of symmetric matrices over finite fields** <Badge text="Alpha" />
 
     Changli Ma, <u>**Qi Wang**</u>, and Meng Zhao
 
@@ -193,13 +203,13 @@ Papers marked with * use alphabetic ordering of authors, following the conventio
 
 ### 2015
 
-- **\* Difference balanced functions and their generalized difference sets**
+- **Difference balanced functions and their generalized difference sets** <Badge text="Alpha" />
 
     Alexander Pott and <u>**Qi Wang**</u>
 
     Journal of Combinatorial Theory, Series A, vol. 131, pp. 61-70, 2015
 
-- **\* Skew Hadamard difference sets from Dickson polynomials of order 7**
+- **Skew Hadamard difference sets from Dickson polynomials of order 7** <Badge text="Alpha" />
 
     Cunsheng Ding, Alexander Pott, and <u>**Qi Wang**</u>,
 
@@ -207,25 +217,25 @@ Papers marked with * use alphabetic ordering of authors, following the conventio
 
 ### 2014
 
-- **\* Some results on difference balanced functions**
+- **Some results on difference balanced functions** <Badge text="Alpha" />
 
     Alexander Pott and <u>**Qi Wang**</u>
 
     The International Workshop on the Arithmetic of finite fields (WAIFI'14), LNCS no. 9061, Springer, Heidelberg, Gebze, Turkey, Sep. 26-28, 2014.
 
-- **\* Three new families of zero-difference balanced functions with applications**
+- **Three new families of zero-difference balanced functions with applications** <Badge text="Alpha" />
 
     Cunsheng Ding, <u>**Qi Wang**</u>, and Maosheng Xiong
 
     IEEE Transactions on Information Theory, vol. 60, no. 4, pp. 2407-2413, 2014
 
-- **\* Sets of zero-difference balanced functions and their applications**
+- **Sets of zero-difference balanced functions and their applications** <Badge text="Alpha" />
 
     <u>**Qi Wang**</u> and Yue Zhou
 
     Advances in Mathematics of Communications, vol. 8, no. 1, pp. 83-101, 2014
 
-- **\* Constructions of almost difference sets from finite fields**
+- **Constructions of almost difference sets from finite fields** <Badge text="Alpha" />
 
     Cunsheng Ding, Alexander Pott, and <u>**Qi Wang**</u>
 
@@ -233,13 +243,13 @@ Papers marked with * use alphabetic ordering of authors, following the conventio
 
 ### 2013
 
-- **\* On the size of Kakeya sets in finite vector spaces**
+- **On the size of Kakeya sets in finite vector spaces** <Badge text="Alpha" />
 
     Gohar Kyureghyan, Peter Müller, and <u>**Qi Wang**</u>
 
     The Electronic Journal of Combinatorics, vol. 20, no. 3, #P36, 2013
 
-- **\* An upper bound on the size of Kakeya sets in finite vector spaces**
+- **An upper bound on the size of Kakeya sets in finite vector spaces** <Badge text="Alpha" />
 
     Gohar Kyureghyan and <u>**Qi Wang**</u>
 
@@ -247,7 +257,7 @@ Papers marked with * use alphabetic ordering of authors, following the conventio
 
 ### 2012
 
-- **\* Sequences and functions derived from projective planes and their difference sets**
+- **Sequences and functions derived from projective planes and their difference sets** <Badge text="Alpha" />
 
     Alexander Pott, <u>**Qi Wang**</u>, and Yue Zhou 
 

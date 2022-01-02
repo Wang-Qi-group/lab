@@ -2,7 +2,39 @@
 pageClass: about
 # some data for the components
 
-sidebar: false
+sidebar: [{
+          text: 'Members',
+          children: [
+            {
+              text: 'Principal Investigator',
+              link: '/members#principal-investigator'
+            },
+            {
+              text: 'Ph.D. Student',
+              link: '/members#ph-d-student'
+            },
+            {
+              text: 'Research Assistant',
+              link: '/members#research-assistant'
+            },
+            {
+              text: 'Master Student',
+              link: '/members#master-student'
+            },
+            {
+              text: 'Undergraduate Student',
+              link: '/members#undergraduate-student'
+            },
+            {
+              text: 'Staff',
+              link: '/members#staff'
+            },
+            {
+              text: 'Alumni',
+              link: '/members#alumni'
+            }
+          ]
+        }]
 title: Yi Liu
 
 name: Yi Liu (刘逸)

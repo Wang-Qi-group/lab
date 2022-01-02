@@ -2,7 +2,7 @@
 pageClass: about
 # some data for the components
 
-sidebar: false
+# sidebar: auto
 title: Rujia Li
 
 name: Rujia Li

@@ -11,7 +11,7 @@ title: Members
   ### Qi Wang
   :envelope: wangqi@sustech.edu.cn
 
-  :house: Office 413, South Tower, CoE Building, SUSTech
+  :round_pushpin:	 Office 413, South Tower, CoE Building, SUSTech
 
   ---
 
@@ -28,7 +28,7 @@ title: Members
 
   ### Rujia Li
 
-  :house: Office 417A, South Tower, CoE Building, SUSTech
+  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
 
   ---
 
@@ -39,7 +39,7 @@ title: Members
 
   His research interests include Blockchain security analysis, Privacy-preserving smart contracts, Cryptographic protocols based on blockchain.
 
-  [[More Information](/members/lirujia)] [[Personal Website](https://rujia.uk)]
+  [[More Information](/members/lirujia.md)] [[Personal Website](https://rujia.uk)]
 
 </ProfileCard>
 
@@ -54,7 +54,7 @@ title: Members
   
   His research interests include cryptographic protocols, such as multi-party computation (MPC), zero-knowledge proofs, etc.
 
-  [[More Information](/members/liuyi)] [[Personal Website](https://imliuyi.com)]
+  [[More Information](/members/liuyi.md)] [[Personal Website](https://imliuyi.com)]
 
 </ProfileCard>
 
@@ -68,39 +68,39 @@ title: Members
 <ProfileCard image="/members/wanggeyang.jpg" hideBorder=true>
 
   ### Geyang Wang
-  :house: Office 417A, South Tower, CoE Building, SUSTech
+  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
 
   ---
 
   Geyang Wang received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019. His research interests include Coding, Cryptography, Coding theory. 
 
-  [[More Information](/members/wanggeyang)] 
+  [[More Information](/members/wanggeyang.md)] 
 
 </ProfileCard>
 
 <ProfileCard image="/members/maoyulian.jpg" hideBorder=true>
 
   ### Yulian Mao
-  :house: Office 417A, South Tower, CoE Building, SUSTech
+  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
 
   ---
 
   Yulian Mao received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019. Her research interests include differential privacy and its application. 
 
-  [[More Information](/members/maoyulian)] 
+  [[More Information](/members/maoyulian.md)] 
 
 </ProfileCard>
 
 <ProfileCard image="/members/lijiaqi.jpg" hideBorder=true>
 
   ### Jiaqi Li
-  :house: Office 417A, South Tower, CoE Building, SUSTech
+  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
 
   ---
 
   Jiaqi Li received the B.Eng. degree in Computer Science and Technology from South China University of Technology in 2020. His research interests is Privacy-preserving contact tracing. 
 
-  [[More Information](/members/lijiaqi)]
+  [[More Information](/members/lijiaqi.md)]
 
 </ProfileCard>
 
@@ -115,7 +115,7 @@ title: Members
 <ProfileCard image="/members/zhangwenhao.jpg" hideBorder=true>
 
   ### Wenhao Zhang
-  :house: Office 417A, South Tower, CoE Building, SUSTech
+  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
 
   ---
 
@@ -129,7 +129,7 @@ title: Members
 ## Staff
 
 ### Nana Lu
-  :house: Office 525, South Tower, CoE Building, SUSTech
+  :round_pushpin:	 Office 525, South Tower, CoE Building, SUSTech
 
 
 ## Alumni
@@ -149,7 +149,7 @@ title: Members
   - Research Assistant (2019.7 - 2020.8) & Master Student (2017 - 2019)
   - **Now**: Ph.D. Student at USTC
 
-  [[More Information](/members/liufeng)] 
+  [[More Information](/members/liufeng.md)] 
 
 </ProfileCard>
 
@@ -159,7 +159,7 @@ title: Members
   - Research Assistant (2021) & Master Student (2018 - 2020) & Undergraduate Student (Graduated in 2018)
   - **Now**: Programmer at Shenzhen Health Development Research and Data Management Center
 
-  [[More Information](/members/wenweihuang)] [[Personal Website](https://hughwen.github.io/)]
+  [[More Information](/members/wenweihuang.md)] [[Personal Website](https://hughwen.github.io/)]
 
 </ProfileCard>
 
@@ -169,7 +169,7 @@ title: Members
   - Master Student (2018 - 2020)
   - **Now**: Teacher at 深圳大学附属教育集团外国语中学
 
-  [[More Information](/members/wangjiahui)] 
+  [[More Information](/members/wangjiahui.md)] 
 
 </ProfileCard>
 
