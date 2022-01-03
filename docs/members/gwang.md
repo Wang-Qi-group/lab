@@ -34,41 +34,72 @@ sidebar: [{
             }
           ]
         }]
-title: Yulian Mao
+title: Geyang Wang
 
-name: Yulian Mao (毛玉莲)
-profile: /members/maoyulian.jpg
+name: Geyang Wang (王戈扬)
+profile: /members/wanggeyang.jpg
 
+socials:
+  - title: Google Scholar
+    icon: "/icons/google-scholar.svg"
+    link: https://scholar.google.com/citations?hl=zh-CN&user=wZZIM3IAAAAJ
 
-
-email: maoyl2019 AT mail.sustech.edu.cn
+email: 11930618 AT mail.sustech.edu.cn
 ---
 <div style="padding: 2%"></div>
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I am a Master student at Computer Science Department of Southern University of Science and Technology (SUSTech). My research interests include **differential privacy** and **data mining**. I'm mainly working on **data publication under local differential privacy**.
+I am a Master student at Computer Science Department of Southern University of Science and Technology (SUSTech). My research interests include **coding theory** and **combinatorics**. I also maintain interest in **sequences design**.
+
+
+
 
 ## Education
 
 - **Southern University of Science and Technology (SUSTech)** *Sept. 2019 – Present* 
-  - Master Student
-  - Supervisor:[Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/)
+  - Master student
+  - Supervisor: [Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/) (SUSTech)
 - **Southern University of Science and Technology (SUSTech)** *Sept. 2015 – July 2019*
-  - B.Eng. in Computer Science and Technology 
+  - B.Eng. in Computer Science and Technology
 
+  
+
+## Publication
+
+- **On the size distribution of Levenshtein balls with radius one**
+
+    <u>**Geyang Wang**</u>, Qi Wang
+
+    submitted to the 12th International Workshop on Coding and Cryptography. **WCC 2022**.
+
+    ---
+
+- **Q-ary non-overlapping codes: a generating function approach**
+  
+    <u>**Geyang Wang**</u>, Qi Wang
+
+    submitted to **IEEE transactions on Information Theory**, under minor revision, [[ePrint](https://arxiv.org/abs/2108.06934)]
+
+    ---
+
+- **An OACF-preserving operation based on Parker’s transformation**
+  
+    <u>**Geyang Wang**</u>, Qi Wang
+
+    In 9th International Workshop on Signal Design and its Applications in Communications. **IWSDA 2019**. [ePrint](https://arxiv.org/abs/2004.03799)
+
+    ---
+
+
+## Invited Talks
+
+**Conference Talks**: IWSDA 2019.
 
 ## Awards & Honors
-- **National Encouragement Scholarship**  **2016,2017,2018**
-- **American Interdisciplinary Contest In Modeling** (Honorable Mention) **2017**
-
-
-## Experience
-
-- **Teaching Assistant**
-  - CS203: Data Structure and Algorithm Analysis (SUSTech Fall 2018)
-  - CS201: Discrete Mathematics (SUSTech Fall 2019) 
+- **National Crypto-Math Contest** (1st Prize) **2019,2020**
+- **Outstanding student** Cryptography and math summer school, University of Chinese Academy of Sciences **2018**
 
 
 
