@@ -1,4 +1,4 @@
-xin---
+---
 pageClass: about
 
 sidebar: [{
