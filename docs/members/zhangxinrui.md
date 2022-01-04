@@ -79,8 +79,8 @@ Xinrui Zhang is a Research Assistant at the Computer Science and Engineering Dep
 
 
 ## Awards & Honors
-- **Academic Excellence Scholarship** College of Cyber Security, Nankai University **2019**
-- **Academic Progress Scholarship** College of Cyber Security, Nankai University **2019**
+- **Academic Excellence Scholarship** College of Cyber Science, Nankai University **2019**
+- **Academic Progress Scholarship** College of Cyber Science, Nankai University **2019**
 
 ## Experience
 - **Research Assistant**
