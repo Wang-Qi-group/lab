@@ -84,7 +84,7 @@ title: Members
 
 ## Research Assistant
 
-<ProfileCard image="/members/no_photo.jpg" hideBorder=true>
+<ProfileCard image="/members/zhangxr.jpg" hideBorder=true>
 
   <span style="font-size: 20px">**Xinrui Zhang**</span>
 
@@ -92,6 +92,7 @@ title: Members
 
   ---
   Xinrui Zhang is a Research Assistant at the Computer Science and Engineering Department of Southern University of Science and Technology (SUSTech). Her research focuses on making blockchain systems more secure through cryptography (ZKP), trusted execution environments (TEEs), and consensus algorithms.
+
   [[More Information](/members/zhangxinrui.md)]
 
 </ProfileCard>
