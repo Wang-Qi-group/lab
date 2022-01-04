@@ -139,6 +139,19 @@ title: Members
 
 </ProfileCard>
 
+<ProfileCard image="/members/liuyiyang.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Yiyang Liu**</span>
+
+  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
+
+  ---
+
+  Yiyang Liu received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2020. His research interests is Privacy Compute. 
+
+  [[More Information](/members/lijiaqi.md)]
+
+</ProfileCard>
 
 
 
@@ -168,7 +181,7 @@ title: Members
 
   ---
 
-  He is an undergraduate from Southern University of Science and Technology (SUSTech). His research interests include cryptography, trusted execution environment, and blockchain. 
+  Yuanzhao Li is an undergraduate from Southern University of Science and Technology (SUSTech). His research interests include cryptography, trusted execution environment, and blockchain. 
   
 [[More Information](/members/liyz.md)]
   
@@ -184,7 +197,7 @@ title: Members
 
   ---
 
- He is an undergraduate student from Computer Science and Engineering Department of Southern University of Science and Technology (SUSTech). Currently he is working on building applications using trusted execution environments.
+ Xuanwei Hu is an undergraduate student from Computer Science and Engineering Department of Southern University of Science and Technology (SUSTech). Currently he is working on building applications using trusted execution environments.
   
 [[More Information](/members/huxuanwei.md)]
   
