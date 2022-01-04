@@ -91,6 +91,8 @@ title: Members
   :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
 
   ---
+  Xinrui Zhang is a Research Assistant at the Computer Science and Engineering Department of Southern University of Science and Technology (SUSTech). Her research focuses on making blockchain systems more secure through cryptography (ZKP), trusted execution environments (TEEs), and consensus algorithms.
+  [[More Information](/members/zhangxinrui.md)]
 
 </ProfileCard>
 
