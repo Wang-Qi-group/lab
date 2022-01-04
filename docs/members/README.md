@@ -175,6 +175,23 @@ title: Members
 
 </ProfileCard>
 
+
+<ProfileCard image="/members/huxuanwei.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Xuanwei Hu**</span>
+
+  :round_pushpin:	 Office 550, South Tower, CoE Building, SUSTech
+
+  ---
+
+ He is an undergraduate student from Computer Science and Engineering Department of Southern University of Science and Technology (SUSTech). Currently he is working on building applications using trusted execution environments.
+  
+[[More Information](/members/huxuanwei.md)]
+  
+
+</ProfileCard>
+
+
 ## Staff
 
 <ProfileCard image="/members/lunana.jpg" hideBorder=true>
