@@ -152,7 +152,7 @@ title: Members
 
   Yiyang Liu received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2020. His research interests is Privacy Compute. 
 
-  [[More Information](/members/lijiaqi.md)]
+  [[More Information](/members/liuyiyang.md)]
 
 </ProfileCard>
 
@@ -240,7 +240,7 @@ title: Members
   - Research Assistant (2019.7 - 2020.8) & Master 2019
   - **Now**: Ph.D. Student at USTC
 
-  [[More Information](/members/liufeng.md)] 
+  
 
 </ProfileCard>
 
@@ -250,7 +250,7 @@ title: Members
   - Research Assistant (2021) & Master 2020 & BEng 2018
   - **Now**: Programmer at Shenzhen Health Development Research and Data Management Center
 
-  [[More Information](/members/wenweihuang.md)] [[Personal Website](https://hughwen.github.io/)]
+  [[Personal Website](https://hughwen.github.io/)]
 
 </ProfileCard>
 
@@ -260,7 +260,7 @@ title: Members
   - Master 2020
   - **Now**: Teacher at 深圳大学附属教育集团外国语中学
 
-  [[More Information](/members/wangjiahui.md)] 
+ 
 
 </ProfileCard>
 
