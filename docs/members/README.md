@@ -91,7 +91,9 @@ title: Members
   :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
 
   ---
-  Xinrui Zhang is a Research Assistant at the Computer Science and Engineering Department of Southern University of Science and Technology (SUSTech). Her research focuses on making blockchain systems more secure through cryptography (ZKP), trusted execution environments (TEEs), and consensus algorithms.
+  Xinrui Zhang is a Research Assistant at the Computer Science and Engineering Department of Southern University of Science and Technology (SUSTech). 
+  
+  Her research focuses on making blockchain systems more secure through cryptography (ZKP), trusted execution environments (TEEs), and consensus algorithms.
 
   [[More Information](/members/zhangxinrui.md)]
 
@@ -108,7 +110,9 @@ title: Members
 
   ---
 
-  Geyang Wang received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019. His research interests include Coding, Cryptography, Coding theory. 
+  Geyang Wang received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019. 
+  
+  His research interests include Coding, Cryptography, Coding theory. 
 
   [[More Information](/members/gwang.md)] 
 
@@ -122,7 +126,9 @@ title: Members
 
   ---
 
-  Yulian Mao received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019. Her research interests include differential privacy and its application. 
+  Yulian Mao received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019. 
+  
+  Her research interests include differential privacy and its application. 
 
   [[More Information](/members/maoyulian.md)] 
 
@@ -136,7 +142,9 @@ title: Members
 
   ---
 
-  Jiaqi Li received the B.Eng. degree in Computer Science and Technology from South China University of Technology in 2020. His research interests is Privacy-preserving contact tracing. 
+  Jiaqi Li received the B.Eng. degree in Computer Science and Technology from South China University of Technology in 2020. 
+  
+  His research interest is Privacy-preserving contact tracing. 
 
   [[More Information](/members/lijiaqi.md)]
 
@@ -150,7 +158,9 @@ title: Members
 
   ---
 
-  Yiyang Liu received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2020. His research interests is Privacy Compute. 
+  Yiyang Liu received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2020. 
+  
+  His research interest is Privacy Compute. 
 
   [[More Information](/members/liuyiyang.md)]
 
@@ -170,7 +180,9 @@ title: Members
 
   ---
 
-  Wenhao Zhang is a final-year undergraduate student at SUSTech. His research interests include cryptography and its application. 
+  Wenhao Zhang is a final-year undergraduate student at SUSTech. 
+  
+  His research interests include cryptography and its application. 
 
   [[Personal Website](https://wzhang.cc/)]
 
@@ -184,7 +196,9 @@ title: Members
 
   ---
 
-  Yuanzhao Li is an undergraduate from Southern University of Science and Technology (SUSTech). His research interests include cryptography, trusted execution environment, and blockchain. 
+  Yuanzhao Li is an undergraduate from Southern University of Science and Technology (SUSTech).
+  
+   His research interests include cryptography, trusted execution environment, and blockchain. 
   
 [[More Information](/members/liyz.md)]
   
@@ -200,7 +214,9 @@ title: Members
 
   ---
 
- Xuanwei Hu is an undergraduate student from Computer Science and Engineering Department of Southern University of Science and Technology (SUSTech). Currently he is working on building applications using trusted execution environments.
+ Xuanwei Hu is an undergraduate student from Computer Science and Engineering Department of Southern University of Science and Technology (SUSTech). 
+ 
+ Currently he is working on building applications using trusted execution environments.
   
 [[More Information](/members/huxuanwei.md)]
   
