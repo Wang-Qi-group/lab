@@ -37,7 +37,7 @@ sidebar: [{
 title: Jiaqi Li
 
 name: Jiaqi Li (李嘉琦)
-profile: /members/lijiaqi1.jpg
+profile: /members/lijiaqi.jpg
 
 socials:
 

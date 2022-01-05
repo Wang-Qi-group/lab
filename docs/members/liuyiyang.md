@@ -37,7 +37,7 @@ sidebar: [{
 title: Yiyang Liu
 
 name: Yiyang Liu (刘毅阳)
-profile: /members/liuyiyang1.jpg
+profile: /members/liuyiyang.jpg
 
 socials:
   - title: github
