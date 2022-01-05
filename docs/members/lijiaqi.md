@@ -1,36 +1,67 @@
 ---
 pageClass: about
-# some data for the components
 
-sidebar: false
+sidebar: [{
+          text: 'Members',
+          children: [
+            {
+              text: 'Principal Investigator',
+              link: '/members#principal-investigator'
+            },
+            {
+              text: 'Ph.D. Student',
+              link: '/members#ph-d-student'
+            },
+            {
+              text: 'Research Assistant',
+              link: '/members#research-assistant'
+            },
+            {
+              text: 'Master Student',
+              link: '/members#master-student'
+            },
+            {
+              text: 'Undergraduate Student',
+              link: '/members#undergraduate-student'
+            },
+            {
+              text: 'Staff',
+              link: '/members#staff'
+            },
+            {
+              text: 'Alumni',
+              link: '/members#alumni'
+            }
+          ]
+        }]
 title: Jiaqi Li
 
-name: Jiaqi Li
-profile: /members/lijiaqi.jpg
+name: Jiaqi Li (李嘉琦)
+profile: /members/lijiaqi1.jpg
 
-# socials:
-#   - title: github
-#     icon: "/icons/github.svg"
-#     link: https://github.com/liu-yi
-#   - title: linkedin
-#     icon: "/icons/linkedin-mono.svg"
-#     link: https://www.linkedin.com/in/%E9%80%B8-%E5%88%98-363764114/
+socials:
 
-# cv: https://en.wikipedia.org/wiki/Harry_Potter
-# bio: Ph.D. Student at HKU
-# email: mail@imliuyi.com
+email: 12032487@mail.sustech.edu.cn
 ---
 <div style="padding: 2%"></div>
 <ProfileSection :frontmatter="$page.frontmatter" />
 
+## About Me
 
-Research Interest:
-Privacy-preserving contact tracing
+I am a Master student at Computer Science Department of Southern University of Science and Technology (SUSTech). My research interests include **cryptography** and **privacy**. I'm mainly working on **Privacy-preserving contact tracing**.
 
-Education:
-2016/09 - 2020/06，South China University of Technology，Computer Science and Technology，Bachelor
+## Education
 
-2020/09 - Now，Southern University of Science and Technology，Computer Science and Technology，Master
+- **Southern University of Science and Technology (SUSTech)** *Sept. 2020 – Present* 
+  - Master Student
+  - Supervisor:  [Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/) (SUSTech)
+- **South China University of Technology (SCUT)** *Sept. 2016 – July 2020*
+  - B.Eng. in Computer Science and Technology 
+
+## Experience
+
+- **Teaching Assistant**
+  - CS201: Discrete Mathematics (SUSTech Fall 2021) 
 
 
 
