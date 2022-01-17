@@ -56,7 +56,8 @@ title: Members
   
   His research interests include cryptographic protocols, such as multi-party computation (MPC), zero-knowledge proofs, etc.
 
-  [[More Information](/members/liuyi.md)] [[Personal Website](https://imliuyi.com)]
+  <!-- [[More Information](/members/liuyi.md)]  -->
+  [[Personal Website](https://imliuyi.com)]
 
 </ProfileCard>
 
