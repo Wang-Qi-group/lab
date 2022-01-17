@@ -114,7 +114,7 @@ title: Members
   
   His research interests include Coding, Cryptography, Coding theory. 
 
-  [[More Information](/members/gwang.md)] 
+  [[More Information](/members/gwang.md)] [[Personal Website](https://wang-gy.github.io)]
 
 </ProfileCard>
 
