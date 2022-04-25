@@ -115,7 +115,7 @@ title: Members
   
   His research interests include Coding,  Coding theory. 
 
-  [[More Information](/members/gwang.md)] [[Personal Website](https://wang-gy.github.io)]
+  <!-- [[More Information](/members/gwang.md)] [[Personal Website](https://wang-gy.github.io)]-->
 
 </ProfileCard>
 
@@ -183,7 +183,7 @@ title: Members
 
   Wenhao Zhang is a final-year undergraduate student at SUSTech. 
   
-  His research interests include cryptography and its application. 
+  His research interests include information theory and its application. 
 
   [[Personal Website](https://wzhang.cc/)]
 
