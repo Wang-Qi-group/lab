@@ -113,7 +113,7 @@ title: Members
 
   Geyang Wang received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019. 
   
-  His research interests include Coding, Cryptography, Coding theory. 
+  His research interests include Coding,  Coding theory. 
 
   [[More Information](/members/gwang.md)] [[Personal Website](https://wang-gy.github.io)]
 
