@@ -24,6 +24,25 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
 ### 2022
 
+- **SoK: TEE-assisted confidential smart contract**
+  
+    <u>**Rujia Li**</u>, Qin Wang,  <u>**Qi Wang**</u>, David Galindo, Mark Ryan
+
+    The 22nd Privacy Enhancing Technologies Symposium (PETS'22), Sydney, Australia, Jul. 11-15, 2022
+
+- **Exploring unfairness on proof of authority: order manipulation attacks and remidies**
+  
+    Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>, Shiping Chen, Yang Xiang
+
+    The 17th ACM ASIA Conference on Computer and Communications Security (ASIACCS'22), Nagasaki, Japan, May 30-June 2, 2022
+
+- **Frontrunning block attack in PoA Clique: a case study**
+  
+    <u>**Xinrui Zhang**</u>, Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>
+
+    The 4th IEEE International Conference on Blockchain and Cryptocurrency (ICBC'22), online, May 2-5, 2022
+
+
 - **Making Private Function Evaluation Safer, Faster, and Simpler**
   
     <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
@@ -109,16 +128,25 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
 ### To appear
 
-- **A class of binary cyclic codes with optimal parameters, Cryptography and Communications**
+- **Q-ary non-overlapping codes: a generating function approach**
+
+    <u>**Geyang Wang**</u>, <u>**Qi Wang**</u>
+
+    IEEE Transactions on Information Theory (TIT)
+
+- **The subfield codes and subfield subcodes of a family of MDS codes**
+
+    Chunming Tang, <u>**Qi Wang**</u>, Cunsheng Ding
+
+    IEEE Transactions on Information Theory (TIT)
+
+
+- **A class of binary cyclic codes with optimal parameters**
   
     Kaiqiang Liu, <u>**Qi Wang**</u>, and Haode Yan
 
     Cryptography and Communications, https://doi.org/10.1007/s12095-021-00548-1, published online
 
-- **Parameters and characterizations of hulls of some projective narrow-sense BCH codes**
-    Yuwen Huang, Chengju Li, <u>**Qi Wang**</u>, and Zongrun Du
-
-    Designs Codes and Cryptography, https://doi.org/10.1007/s10623-021-00965-6, published online
 
 - **Infinite families of 2-designs from linear codes** 
 
@@ -127,6 +155,19 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
     To appear in Applicable Algebra in Engineering, Communication and Computing
 
 ### 2022
+
+- **On the size distribution of Levenshtein balls with radius one**<Badge text="Alpha" />
+
+     <u>**Geyang Wang**</u>, <u>**Qi Wang**</u>
+
+    The Twelfth International Workshop on Coding and Cryptography (WCC'22), Rostock, Germany, Mar. 7-11, 2022
+
+- **Parameters and characterizations of hulls of some projective narrow-sense BCH codes**
+  
+    Yuwen Huang, Chengju Li, <u>**Qi Wang**</u>, and Zongrun Du
+
+    Designs Codes and Cryptography, vol. 90, pp. 87-106, 2022
+
 
 - **Infinite families of 2-designs from two classes of binary cyclic codes with three nonzeros**
 
