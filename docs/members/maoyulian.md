@@ -41,20 +41,26 @@ profile: /members/maoyulian.jpg
 
 
 
-email: maoyl2019 AT mail.sustech.edu.cn
+email: maoyl2022 AT mail.sustech.edu.cn
 ---
 <div style="padding: 2%"></div>
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I am a Master student at Computer Science Department of Southern University of Science and Technology (SUSTech). My research interests include **differential privacy** and **data mining**. I'm mainly working on **data publication under local differential privacy**.
+I am a Ph.D. student of SUSTech and HKPolyU Joint Ph.D. Programme. My research interests include **differential privacy** and **data mining**. I'm mainly working on **data publication under local differential privacy**.
 
 ## Education
 
-- **Southern University of Science and Technology (SUSTech)** *Sept. 2019 – Present* 
+- **SUSTech and HKPolyU Joint Ph.D. Programme** *Sept. 2022 – Present* 
+  - Ph.D. Student 
+  - Supervisor: [Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/) (SUSTech) and [Prof. Haibo Hu](http://www.haibohu.org/wordpress/) (HKPolyU)  
+
+
+- **Southern University of Science and Technology (SUSTech)** *Sept. 2019 – July 2022* 
   - Master Student
   - Supervisor:[Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/)
+  
 - **Southern University of Science and Technology (SUSTech)** *Sept. 2015 – July 2019*
   - B.Eng. in Computer Science and Technology 
 

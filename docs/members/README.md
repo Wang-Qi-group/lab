@@ -61,6 +61,8 @@ title: Members
 
 </ProfileCard>
 
+
+
 <!-- <ProfileCard image="/members/no_photo.jpg" hideBorder=true>
 
   <span style="font-size: 20px">**Jingrou Wu**</span>
@@ -83,41 +85,8 @@ title: Members
 
 </ProfileCard>
 
-## Research Assistant
-
-<ProfileCard image="/members/zhangxr.jpg" hideBorder=true>
-
-  <span style="font-size: 20px">**Xinrui Zhang**</span>
-
-  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
-
-  ---
-  Xinrui Zhang is a Research Assistant at the Computer Science and Engineering Department of Southern University of Science and Technology (SUSTech). 
-  
-  Her research focuses on making blockchain systems more secure through cryptography (ZKP), trusted execution environments (TEEs), and consensus algorithms.
-
-  [[More Information](/members/zhangxinrui.md)]
-
-</ProfileCard>
 
 
-## Master Student
-
-<ProfileCard image="/members/wanggeyang.jpg" hideBorder=true>
-
-  <span style="font-size: 20px">**Geyang Wang**</span>
-
-  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
-
-  ---
-
-  Geyang Wang received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019. 
-  
-  His research interests include Coding,  Coding theory. 
-
-  <!-- [[More Information](/members/gwang.md)] [[Personal Website](https://wang-gy.github.io)]-->
-
-</ProfileCard>
 
 <ProfileCard image="/members/maoyulian.jpg" hideBorder=true>
 
@@ -127,13 +96,20 @@ title: Members
 
   ---
 
-  Yulian Mao received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019. 
+  Yulian Mao received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2019, and the master degree in Electronics Science and Technology from SUSTech in 2022. She is a Ph.D. student at SUSTech and HKPolyU (Joint Ph.D. Programme).
   
   Her research interests include differential privacy and its application. 
 
   [[More Information](/members/maoyulian.md)] 
 
 </ProfileCard>
+
+
+<!--## Research Assistant-->
+
+## Master Student
+
+
 
 <ProfileCard image="/members/lijiaqi.jpg" hideBorder=true>
 
@@ -167,28 +143,6 @@ title: Members
 
 </ProfileCard>
 
-
-
-
-
-## Undergraduate Student
-
-<ProfileCard image="/members/zhangwenhao.jpg" hideBorder=true>
-
-  <span style="font-size: 20px">**Wenhao Zhang**</span>
-
-  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
-
-  ---
-
-  Wenhao Zhang is a final-year undergraduate student at SUSTech. 
-  
-  His research interests include information theory and its application. 
-
-  [[Personal Website](https://wzhang.cc/)]
-
-</ProfileCard>
-
 <ProfileCard image="/members/liyuanzhao.jpg" hideBorder=true>
 
   <span style="font-size: 20px">**Yuanzhao Li**</span>
@@ -197,7 +151,7 @@ title: Members
 
   ---
 
-  Yuanzhao Li is an undergraduate from Southern University of Science and Technology (SUSTech).
+  Yuanzhao Li received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2022.
   
    His research interests include cryptography, trusted execution environment, and blockchain. 
   
@@ -215,7 +169,7 @@ title: Members
 
   ---
 
- Xuanwei Hu is an undergraduate student from Computer Science and Engineering Department of Southern University of Science and Technology (SUSTech). 
+ Xuanwei Hu received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2022. 
  
  Currently he is working on building applications using trusted execution environments.
   
@@ -223,6 +177,14 @@ title: Members
   
 
 </ProfileCard>
+
+
+
+<!--## Undergraduate Student-->
+
+
+
+
 
 
 ## Staff
@@ -241,13 +203,6 @@ title: Members
 
 ### Former RAs, graduate students, and postdocs
 
-<ProfileCard image="/members/wangrong.jpg" hideBorder=true>
-
-  <span style="font-size: 20px">**Rong Wang**</span>
-  - Research Assistant (2020.8 - 2021.8) 
-  - **Now**: Teacher at 甘肃省环县第四中学
-  
-</ProfileCard>
 
 <!-- </ProfileCard> -->
 
@@ -258,7 +213,6 @@ title: Members
   - **Now**: Ph.D. Student at USTC
 
   
-
 </ProfileCard>
 
 <ProfileCard image="/members/wenweihuang.png" hideBorder=true>
@@ -275,11 +229,21 @@ title: Members
 
   <span style="font-size: 20px">**Jiahui Wang**</span>
   - Master 2020
-  - **Now**: Teacher at 深圳大学附属教育集团外国语中学
-
- 
+  - **Now**: Teacher at SZU Foreign Language Middle School
 
 </ProfileCard>
+
+
+<ProfileCard image="/members/wanggeyang.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Geyang Wang**</span>
+  - Master 2022
+  - **Now**: Ph.D. Student at University of Maryland, US
+
+</ProfileCard>
+
+
+
 
 <ProfileCard image="/members/jerod.jpg" hideBorder=true>
 
@@ -291,6 +255,7 @@ title: Members
 
 </ProfileCard>
 
+
 <ProfileCard image="/members/no_photo.jpg" hideBorder=true>
 
   <span style="font-size: 20px">**Zhijian Zhang**</span>
@@ -299,7 +264,40 @@ title: Members
   
 </ProfileCard>
 
+
+<ProfileCard image="/members/wangrong.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Rong Wang**</span>
+  - Research Assistant (2020.8 - 2021.8) 
+  - **Now**: Teacher at No. 4 Middle School, Huanxian, Gansu Province
+  
+</ProfileCard>
+
+<ProfileCard image="/members/zhangxr.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Xinrui Zhang**</span>
+  - Research Assistant (2021.8 - 2022.8) 
+  - **Now**: Ph.D. student at University of Sydney, Australia
+  
+</ProfileCard>
+
+- Yulian Mao (Master 2022; now Ph.D. student at SUSTech-HKPolyU)
+
 ### Former undergraduate students
+- Yunyu Cheng (BEng 2022; freelance in Guangzhou)
+- Xuanwei Hu (BEng 2022; now Master student at SUSTech)
+- Yuanzhao Li (BEng 2022; now Master student at SUSTech)
+- Yangyang Wang (BEng 2022; now Master student at USTC)
+  
+<ProfileCard image="/members/zhangwenhao.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Wenhao Zhang**</span>
+  - BEng 2022
+  - **Now**: Ph.D. student at Northwestern University, US
+  
+  [[Personal Website](https://wzhang.cc/)] 
+
+</ProfileCard>
 
 - Dong Chen (BEng 2020; first employment: Huawei)
 - Deyuan Chen (BEng 2020; now Master student at CMU)

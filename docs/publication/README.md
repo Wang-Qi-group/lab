@@ -24,6 +24,12 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
 ### 2022
 
+- **Towards practical homomorphic time-lock puzzles: applicability and verifiability**
+  
+    <u>**Yi Liu**</u>, <u>**Qi Wang**</u>, Siu-Ming Yiu 
+
+    The 27th European Symposium on Research in Computer Security (ESORICS'22), Copenhagen, Denmark, Sep. 26-30, 2022.
+
 - **SoK: TEE-assisted confidential smart contract**
   
     <u>**Rujia Li**</u>, Qin Wang,  <u>**Qi Wang**</u>, David Galindo, Mark Ryan
@@ -127,6 +133,19 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 ## Coding theory and Combinatorics
 
 ### To appear
+
+
+- **Steiner systems $S(2,4,2^m)$ supported by a family of extended cyclic codes**
+
+    <u>**Qi Wang**</u>
+
+    Advances in Mathematics of Communications (AMC)
+
+- **Two classes of LDPC codes from the space of hermitian matrices over finite fields**
+
+    Meng Zhao, Changli Ma, Yanan Feng, and <u>**Qi Wang**</u>
+
+    Advances in Mathematics of Communications (AMC)
 
 - **Q-ary non-overlapping codes: a generating function approach**
 
