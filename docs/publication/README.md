@@ -22,6 +22,21 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
 ## Cryptography
 
+### 2023
+
+- **Transparent registration-based encryption through blockchain**
+  
+Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>,  David Galindo, Shiping Chen, Yang Xiang
+
+ACM Distributed Ledger Technologies: Research and Practice, early access.
+
+
+- **Time-manipulation attack: breaking fairness against proof of authority Aura**
+
+<u>**Xinrui Zhang**</u>, <u>**Rujia Li**</u>, Qin Wang, <u>**Qi Wang**</u>
+
+The 2023 ACM Web Conference (WWW), Austin, USA, Apr. 30-May 4, 2023.
+
 ### 2022
 
 - **Towards practical homomorphic time-lock puzzles: applicability and verifiability**
@@ -132,48 +147,53 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
 ## Coding theory and Combinatorics
 
-### To appear
+### 2023
+- **The solution to an open problem on the bentness of Mesnager's functions**
 
+    Chunming Tang,  Peng Han,  <u>**Qi Wang**</u>, Jun Zhang,  Yanfeng Qi
+
+    Finite Fields and Their Applications (FFA), vol. 88, 102170, 2023.
+
+
+### 2022
 
 - **Steiner systems $S(2,4,2^m)$ supported by a family of extended cyclic codes**
 
     <u>**Qi Wang**</u>
 
-    Advances in Mathematics of Communications (AMC)
+    Advances in Mathematics of Communications (AMC), vol. 16, no. 4, pp. 1011-1022, 2022.
 
 - **Two classes of LDPC codes from the space of hermitian matrices over finite fields**
 
     Meng Zhao, Changli Ma, Yanan Feng, and <u>**Qi Wang**</u>
 
-    Advances in Mathematics of Communications (AMC)
+    Advances in Mathematics of Communications (AMC), vol. 16, no. 4, pp. 1211-1222, 2022.
 
 - **Q-ary non-overlapping codes: a generating function approach**
 
     <u>**Geyang Wang**</u>, <u>**Qi Wang**</u>
 
-    IEEE Transactions on Information Theory (TIT)
+    IEEE Transactions on Information Theory (TIT), vol. 68, pp. 5154-5164, 2022.
 
 - **The subfield codes and subfield subcodes of a family of MDS codes**
 
     Chunming Tang, <u>**Qi Wang**</u>, Cunsheng Ding
 
-    IEEE Transactions on Information Theory (TIT)
+     IEEE Transactions on Information Theory (TIT), vol. 68, pp. 5792-5801, 2022.   
 
 
 - **A class of binary cyclic codes with optimal parameters**
   
     Kaiqiang Liu, <u>**Qi Wang**</u>, and Haode Yan
 
-    Cryptography and Communications, https://doi.org/10.1007/s12095-021-00548-1, published online
+    Cryptography and Communications (CCDS), vol. 14, pp. 663-675, 2022. 
 
 
 - **Infinite families of 2-designs from linear codes** 
 
     Xiaoni Du, <u>**Rong Wang**</u>, Chunming Tang, and <u>**Qi Wang**</u>
 
-    To appear in Applicable Algebra in Engineering, Communication and Computing
-
-### 2022
+    Applicable Algebra in Engineering, Communication and Computing (AAECC), vol. 22, pp. 193-211, 2022.
 
 - **On the size distribution of Levenshtein balls with radius one**<Badge text="Alpha" />
 

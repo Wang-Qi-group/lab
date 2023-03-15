@@ -25,41 +25,6 @@ title: Members
 
 ## Ph.D. Student
 
-<ProfileCard image="/members/lirujia.png" hideBorder=true>
-
-  <span style="font-size: 20px">**Rujia Li**</span>
-
-  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
-
-  ---
-
-
-  Rujia Li received the Bachelor's degrees in both Computer Science and business administration from Wuhan university in 2009. He worked at State Grid Electric Power Research Institute as an R & D engineer from 04/2013 to 11/2014 and at State Grid Information & Telecommunication co. ltd，as a Secure architect assistant from 2014/12 to 2016/08. He started his master study from 2016/09 and received the master degree in computer science from University of Birmingham in 2016. 
-  
-  He now is a CS PhD candidate at University of Birmingham and Southern University of Science and Technology (Joint PhD Program). 
-
-  His research interests include Blockchain security analysis, Privacy-preserving smart contracts, Cryptographic protocols based on blockchain.
-
-  [[Personal Website](https://rujia.uk)]
-
-</ProfileCard>
-
-<ProfileCard image="/members/liuyi1.jpg" hideBorder=true>
-
-  <span style="font-size: 20px">**Yi Liu**</span>
-
-  :envelope: liuy7 (at) mail.sustech.edu.cn
-
-  ---
-
-  Yi Liu received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2018. He is a Ph.D. candidate at HKU and SUSTech (Joint Ph.D. Programme). 
-  
-  His research interests include cryptographic protocols, such as multi-party computation (MPC), zero-knowledge proofs, etc.
-
-  <!-- [[More Information](/members/liuyi.md)]  -->
-  [[Personal Website](https://imliuyi.com)]
-
-</ProfileCard>
 
 
 
@@ -202,6 +167,29 @@ title: Members
 <!-- <ProfileCard image="/members/liufeng.jpg" hideBorder=true> -->
 
 ### Former RAs, graduate students, and postdocs
+
+<ProfileCard image="/members/lirujia.png" hideBorder=true>
+
+  <span style="font-size: 20px">**Rujia Li**</span>
+
+  - Ph.D. (2017.12-2022.3)
+  - **Now**: Shuimu Tsinghua Scholar at Institute for Advanced Study, Tsinghua University
+
+  [[Personal Website](https://rujia.uk)]
+
+</ProfileCard>
+
+<ProfileCard image="/members/liuyi1.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Yi Liu**</span>
+
+  - Ph.D. (2018.9-2023.2)
+  
+  - Lecturer at Jinan University
+  
+  [[Personal Website](https://imliuyi.com)]
+
+</ProfileCard>
 
 
 <!-- </ProfileCard> -->
