@@ -187,7 +187,7 @@ title: Members
   
   - Lecturer at Jinan University
   
-  [[Personal Website](https://imliuyi.com)]
+  [[Personal Website](https://liuyi.pro)]
 
 </ProfileCard>
 
