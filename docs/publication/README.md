@@ -28,7 +28,7 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
   
 Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>,  David Galindo, Shiping Chen, Yang Xiang
 
-ACM Distributed Ledger Technologies: Research and Practice, early access.
+ACM Distributed Ledger Technologies: Research and Practice, vol. 2, no. 1, pp. 1-14, 2023.
 
 
 - **Time-manipulation attack: breaking fairness against proof of authority Aura**

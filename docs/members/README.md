@@ -75,39 +75,6 @@ title: Members
 ## Master Student
 
 
-
-<ProfileCard image="/members/lijiaqi.jpg" hideBorder=true>
-
-  <span style="font-size: 20px">**Jiaqi Li**</span>
-
-  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
-
-  ---
-
-  Jiaqi Li received the B.Eng. degree in Computer Science and Technology from South China University of Technology in 2020. 
-  
-  His research interest is Privacy-preserving contact tracing. 
-
-  [[More Information](/members/lijiaqi.md)]
-
-</ProfileCard>
-
-<ProfileCard image="/members/liuyiyang.jpg" hideBorder=true>
-
-  <span style="font-size: 20px">**Yiyang Liu**</span>
-
-  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
-
-  ---
-
-  Yiyang Liu received the B.Eng. degree in Computer Science and Technology from Southern University of Science and Technology in 2020. 
-  
-  His research interest is Privacy Compute. 
-
-  [[More Information](/members/liuyiyang.md)]
-
-</ProfileCard>
-
 <ProfileCard image="/members/liyuanzhao.jpg" hideBorder=true>
 
   <span style="font-size: 20px">**Yuanzhao Li**</span>
@@ -167,6 +134,25 @@ title: Members
 <!-- <ProfileCard image="/members/liufeng.jpg" hideBorder=true> -->
 
 ### Former RAs, graduate students, and postdocs
+
+
+<ProfileCard image="/members/lijiaqi.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Jiaqi Li**</span>
+
+  - Master 2023
+  - **Now**: Zhongxing Telecom Equipment(ZTE)
+
+</ProfileCard>
+
+<ProfileCard image="/members/liuyiyang.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Yiyang Liu**</span>
+
+  - Master 2023
+  - **Now**: Sinopec Guangzhou Engineering Co., Ltd.
+
+</ProfileCard>
 
 <ProfileCard image="/members/lirujia.png" hideBorder=true>
 
