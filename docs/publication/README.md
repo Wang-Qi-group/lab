@@ -68,7 +68,7 @@ The 2023 ACM Web Conference (WWW), Austin, USA, Apr. 30-May 4, 2023.
   
     <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
 
-    To appear in Public-Key Cryptography, (**PKC 2022**). [[ePrint](https://eprint.iacr.org/2021/1682)]
+    The 25th International Conference on Practice and Theory of Public-Key Cryptography (PKC 2022), virtually, March 8–11, 2022. [[ePrint](https://eprint.iacr.org/2021/1682)]
 
 
 ### 2021
