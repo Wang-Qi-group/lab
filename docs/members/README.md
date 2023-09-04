@@ -193,7 +193,7 @@ title: Members
 
   <span style="font-size: 20px">**Weihuang Wen**</span>
   - Research Assistant (2021) & Master 2020 & BEng 2018
-  - **Now**: Ph.D. Student at USTC
+  - **Now**: Ph.D. Student at CUHKSZ
 
   [[Personal Website](https://markwwen.github.io/)]
 
