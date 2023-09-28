@@ -24,6 +24,14 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
 ### 2023
 
+
+- **Robust publicly verifiable covert security: limited information leakage and guaranteed correctness with low overhead**
+  
+<u>**Y. Liu**</u>, J. Lai, <u>**Q. Wang**</u>, X. Qin, A. Yang, and J. Weng.
+
+In Proceedings of The 29th Annual International Conference on the Theory and Applications of Cryptology and Information Security (Asiacrypt 2023), Guangzhou, China, Dec. 4-8, 2023.
+
+
 - **Transparent registration-based encryption through blockchain**
   
 Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>,  David Galindo, Shiping Chen, Yang Xiang
@@ -143,6 +151,14 @@ The 2023 ACM Web Conference (WWW), Austin, USA, Apr. 30-May 4, 2023.
     <u>**Rujia Li**</u>, David Galindo, <u>**Qi Wang**</u>
 
     The 3rd International Workshop on Cryptocurrencies and Blockchain Technology (**CBT'19**), LNCS no. 11737, Luxembourg, Sep. 26-27, 2019
+
+
+
+
+
+
+
+
 
 
 ## Coding theory and Combinatorics

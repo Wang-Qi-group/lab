@@ -112,6 +112,23 @@ title: Members
 
 
 
+<ProfileCard image="/members/liurunfeng.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Runfeng Liu**</span>
+
+  :round_pushpin:	 Office 550, South Tower, CoE Building, SUSTech
+
+  ---
+
+Runfeng Liu received the B.S degree in Information and Computing Science from Beijing Jiaotong University in 2023. 
+
+His research interests include coding theory and combinatorics.
+  
+[[More Information](/members/liurunfeng.md)]
+  
+
+</ProfileCard>
+
 <!--## Undergraduate Student-->
 
 
