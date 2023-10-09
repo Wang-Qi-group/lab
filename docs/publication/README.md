@@ -27,23 +27,23 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
 - **Robust publicly verifiable covert security: limited information leakage and guaranteed correctness with low overhead**
   
-<u>**Y. Liu**</u>, J. Lai, <u>**Q. Wang**</u>, X. Qin, A. Yang, and J. Weng.
+    <u>**Y. Liu**</u>, J. Lai, <u>**Q. Wang**</u>, X. Qin, A. Yang, and J. Weng.
 
-In Proceedings of The 29th Annual International Conference on the Theory and Applications of Cryptology and Information Security (Asiacrypt 2023), Guangzhou, China, Dec. 4-8, 2023.
+    In Proceedings of The 29th Annual International Conference on the Theory and Applications of Cryptology and Information Security (Asiacrypt 2023), Guangzhou, China, Dec. 4-8, 2023.
 
 
 - **Transparent registration-based encryption through blockchain**
   
-Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>,  David Galindo, Shiping Chen, Yang Xiang
+    Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>,  David Galindo, Shiping Chen, Yang Xiang
 
-ACM Distributed Ledger Technologies: Research and Practice, vol. 2, no. 1, pp. 1-14, 2023.
+    ACM Distributed Ledger Technologies: Research and Practice, vol. 2, no. 1, pp. 1-14, 2023.
 
 
 - **Time-manipulation attack: breaking fairness against proof of authority Aura**
 
-<u>**Xinrui Zhang**</u>, <u>**Rujia Li**</u>, Qin Wang, <u>**Qi Wang**</u>
+    <u>**Xinrui Zhang**</u>, <u>**Rujia Li**</u>, Qin Wang, <u>**Qi Wang**</u>
 
-The 2023 ACM Web Conference (WWW), Austin, USA, Apr. 30-May 4, 2023.
+    The 2023 ACM Web Conference (WWW), Austin, USA, Apr. 30-May 4, 2023.
 
 ### 2022
 
