@@ -34,48 +34,30 @@ sidebar: [{
             }
           ]
         }]
-title: Yulian Mao
+title: Yuxuan Zheng
 
-name: Yulian Mao (毛玉莲)
-profile: /members/maoyulian.jpg
+name: Yuxuan Zheng (郑宇轩)
+profile: /members/zhengyuxuan.jpg
 
 
-
-email: maoyl2022 AT mail.sustech.edu.cn
+email: 12432729@mail.sustech.edu.cn
 ---
 <div style="padding: 2%"></div>
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I am a Ph.D. student of SUSTech and HKPolyU Joint Ph.D. Programme. My research interests include **differential privacy** and **data mining**. I'm mainly working on **data publication under local differential privacy**.
+Yuxuan Zheng received the B.S degree in Statistics from Anhui University in 2024.
 
+His research interests include Post-quantum cryptography.
 ## Education
 
-- **SUSTech and HKPolyU Joint Ph.D. Programme** *Sept. 2022 – Present* 
-  - Ph.D. Student 
-  - Supervisors: [Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/) (SUSTech) and [Prof. Haibo Hu](http://www.haibohu.org/wordpress/) (HKPolyU)  
+- **Southern University of Science and Technology (SUSTech)** *Sept. 2024 – Present* 
+  - Postgraduate student in Electronics Science and Technology
+  - Supervisor: [Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/) (SUSTech)
+- **Anhui University** *Sept. 2010 – July 2024*
+  - B.S in Statistics
 
-
-- **Southern University of Science and Technology (SUSTech)** *Sept. 2019 – July 2022* 
-  - Master Degree
-  - Supervisor:[Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/)
-  
-- **Southern University of Science and Technology (SUSTech)** *Sept. 2015 – July 2019*
-  - B.Eng. in Computer Science and Technology 
-  - Supervisor:[Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/)
-
-
-## Awards & Honors
-- **National Encouragement Scholarship**  **2016,2017,2018**
-- **American Interdisciplinary Contest In Modeling** (Honorable Mention) **2017**
-
-
-## Experience
-
-- **Teaching Assistant**
-  - CS203: Data Structure and Algorithm Analysis (SUSTech Fall 2018)
-  - CS201: Discrete Mathematics (SUSTech Fall 2019) 
 
 
 

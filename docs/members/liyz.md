@@ -55,7 +55,12 @@ I am an undergraduate from Southern University of Science and Technology (SUSTec
 
 ## Education
 
-- **Southern University of Science and Technology (SUSTech)** *Sept. 2018 – Present
+- **Southern University of Science and Technology (SUSTech)** *Sept. 2022 – Present*
+  - Ph.D. Student 
+  - Supervisor: [Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/) 
+
+- **Southern University of Science and Technology (SUSTech)** *Sept. 2018 – 2022*
+  - B.Eng. in Computer Science and Technology 
   - Supervisor: [Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/)
 
 ## Awards & Honors

@@ -70,10 +70,21 @@ title: Members
 </ProfileCard>
 
 
-<!--## Research Assistant-->
+<ProfileCard image="/members/lixiaoru.jpg" hideBorder=true>
 
-## Master Student
+  <span style="font-size: 20px">**Xiaoru Li**</span>
 
+  :round_pushpin:	 Office 417A, South Tower, CoE Building, SUSTech
+
+  ---
+
+  Xiaoru Li is a Ph.D. student at Computer Science and Engineering Department of Southern University of Science and Technology (SUSTech). 
+  
+  Her research interests include **coding theory** and **cryptography**.
+
+  [[More Information](/members/lixiaoru.md)] 
+
+</ProfileCard>
 
 <ProfileCard image="/members/liyuanzhao.jpg" hideBorder=true>
 
@@ -88,9 +99,18 @@ title: Members
    His research interests include cryptography, trusted execution environment, and blockchain. 
   
 [[More Information](/members/liyz.md)]
+</ProfileCard>
+
+<!--## Research Assistant-->
+
+
+## Master Student
+
+
+
   
 
-</ProfileCard>
+
 
 
 <ProfileCard image="/members/huxuanwei.jpg" hideBorder=true>
@@ -125,6 +145,24 @@ Runfeng Liu received the B.S degree in Information and Computing Science from Be
 His research interests include coding theory and combinatorics.
   
 [[More Information](/members/liurunfeng.md)]
+  
+
+</ProfileCard>
+
+
+<ProfileCard image="/members/zhengyuxuan.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Yuxuan Zheng**</span>
+
+  :round_pushpin:	 Office 550, South Tower, CoE Building, SUSTech
+
+  ---
+
+Yuxuan Zheng received the B.S degree in Statistics from Anhui University in 2024.
+
+His research interests include Post-quantum cryptography.
+  
+[[More Information](/members/zhengyuxuan.md)]
   
 
 </ProfileCard>

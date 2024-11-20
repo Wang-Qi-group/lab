@@ -34,49 +34,60 @@ sidebar: [{
             }
           ]
         }]
-title: Yulian Mao
+title: Xiaoru Li
 
-name: Yulian Mao (毛玉莲)
-profile: /members/maoyulian.jpg
+name: Xiaoru Li (李晓茹)
+profile: /members/lixiaoru.jpg
 
 
-
-email: maoyl2022 AT mail.sustech.edu.cn
+email: lx_lixiaoru@163.com
 ---
 <div style="padding: 2%"></div>
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I am a Ph.D. student of SUSTech and HKPolyU Joint Ph.D. Programme. My research interests include **differential privacy** and **data mining**. I'm mainly working on **data publication under local differential privacy**.
+I am a Ph.D. student at Computer Science and Engineering Department of Southern University of Science and Technology (SUSTech). My research interests include **coding theory** and **cryptography**.
 
 ## Education
 
-- **SUSTech and HKPolyU Joint Ph.D. Programme** *Sept. 2022 – Present* 
-  - Ph.D. Student 
-  - Supervisors: [Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/) (SUSTech) and [Prof. Haibo Hu](http://www.haibohu.org/wordpress/) (HKPolyU)  
-
-
-- **Southern University of Science and Technology (SUSTech)** *Sept. 2019 – July 2022* 
-  - Master Degree
-  - Supervisor:[Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/)
+- **Southern University of Science and Technology (SUSTech)** *Sept. 2024 – Present* 
+  - Ph.D. student
+  - Supervisor: [Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/) (SUSTech)
+- **Chang'an University (CHD)** *Sept. 2021 – July 2024*
+  - M.Sc. in Mathematics
+  - Supervisor: [Prof. Ziling Heng] (CHD)
+- **Henan Polytechnic University (HPU)** *Sept. 2017 – July 2021*
+  - B. Sc. in Mathematics and Applied mathematics
   
-- **Southern University of Science and Technology (SUSTech)** *Sept. 2015 – July 2019*
-  - B.Eng. in Computer Science and Technology 
-  - Supervisor:[Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/)
+## Publication
 
+- **Two families of linear codes with desirable properties from some functions over finite fields**
+  
+    Ziling Heng, <u>**Xiaoru Li**</u>, Yansheng Wu, Qi Wang
+
+    IEEE Transactions on Information Theory, doi: 10.1109/TIT.2024.3439408. 
+
+    ---
+
+- **Self-orthogonal codes from p-divisible codes**
+  
+    <u>**Xiaoru Li**</u>, Ziling Heng
+
+    IEEE Transactions on Information Theory, doi: 10.1109/TIT.2024.3449921.
+    
+    ---
 
 ## Awards & Honors
-- **National Encouragement Scholarship**  **2016,2017,2018**
-- **American Interdisciplinary Contest In Modeling** (Honorable Mention) **2017**
+- **National Scholarship** **2023**
+- **National Inspirational Scholarship** **2020**
+
 
 
 ## Experience
 
 - **Teaching Assistant**
-  - CS203: Data Structure and Algorithm Analysis (SUSTech Fall 2018)
-  - CS201: Discrete Mathematics (SUSTech Fall 2019) 
-
+  - CS215: Discrete Mathematics (SUSTech Fall 2024) 
 
 
 
