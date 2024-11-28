@@ -13,157 +13,29 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
 :tada: <span style="color: blue; ">**Papers by area:**</span>
 
-
-- [Cryptography](./#cryptography) 
-
 - [Coding theory and Combinatorics](./#coding-theory-and-combinatorics)
 
-
-
-## Cryptography
-
-### 2023
-
-
-- **Robust publicly verifiable covert security: limited information leakage and guaranteed correctness with low overhead**
-  
-    <u>**Y. Liu**</u>, J. Lai, <u>**Q. Wang**</u>, X. Qin, A. Yang, and J. Weng.
-
-    In Proceedings of The 29th Annual International Conference on the Theory and Applications of Cryptology and Information Security (Asiacrypt 2023), Guangzhou, China, Dec. 4-8, 2023.
-
-
-- **Transparent registration-based encryption through blockchain**
-  
-    Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>,  David Galindo, Shiping Chen, Yang Xiang
-
-    ACM Distributed Ledger Technologies: Research and Practice, vol. 2, no. 1, pp. 1-14, 2023.
-
-
-- **Time-manipulation attack: breaking fairness against proof of authority Aura**
-
-    <u>**Xinrui Zhang**</u>, <u>**Rujia Li**</u>, Qin Wang, <u>**Qi Wang**</u>
-
-    The 2023 ACM Web Conference (WWW), Austin, USA, Apr. 30-May 4, 2023.
-
-### 2022
-
-- **Towards practical homomorphic time-lock puzzles: applicability and verifiability**
-  
-    <u>**Yi Liu**</u>, <u>**Qi Wang**</u>, Siu-Ming Yiu 
-
-    The 27th European Symposium on Research in Computer Security (ESORICS'22), Copenhagen, Denmark, Sep. 26-30, 2022.
-
-- **SoK: TEE-assisted confidential smart contract**
-  
-    <u>**Rujia Li**</u>, Qin Wang,  <u>**Qi Wang**</u>, David Galindo, Mark Ryan
-
-    The 22nd Privacy Enhancing Technologies Symposium (PETS'22), Sydney, Australia, Jul. 11-15, 2022
-
-- **Exploring unfairness on proof of authority: order manipulation attacks and remidies**
-  
-    Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>, Shiping Chen, Yang Xiang
-
-    The 17th ACM ASIA Conference on Computer and Communications Security (ASIACCS'22), Nagasaki, Japan, May 30-June 2, 2022
-
-- **Frontrunning block attack in PoA Clique: a case study**
-  
-    <u>**Xinrui Zhang**</u>, Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>
-
-    The 4th IEEE International Conference on Blockchain and Cryptocurrency (ICBC'22), online, May 2-5, 2022
-
-
-- **Making Private Function Evaluation Safer, Faster, and Simpler**
-  
-    <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
-
-    The 25th International Conference on Practice and Theory of Public-Key Cryptography (PKC 2022), virtually, March 8–11, 2022. [[ePrint](https://eprint.iacr.org/2021/1682)]
-
-
-### 2021
-
-- **Improved Zero-Knowledge Argument of Encrypted Extended Permutation**
-  
-    <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
-
-    The 17th International Conference on Information Security and Cryptology (**Inscrypt'21**), virtually, Aug. 12-14, 2021. [[ePrint](https://eprint.iacr.org/2021/1430)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r4lFUZ0hVzNpJfVbV?e=MP4v6i)]
-
-- **Blind Polynomial Evaluation and Data Trading**
-  
-    <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
-
-    The 19th International Conference on Applied Cryptography and Network Security (**ACNS'21**), online, Kamakura, Japan, Jun. 21-24, 2021. [[ePrint](https://eprint.iacr.org/2021/413)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r3mbt0dabEcLzhFoH?e=R6uZuh)]
-
-- **A Weak Consensus Algorithm and Its Application to High-Performance Blockchain**
-
-    Qin Wang, <u>**Rujia Li**</u>
-
-    40th IEEE Conference on Computer Communications (**INFOCOM 2021**), Online, Vancouver, BC, Canada, May 10-13, 2021
-
-- **An offline delegatable cryptocurrency system** 
-  
-    <u>**Rujia Li**</u>, Qin Wang, <u>**Xinrui Zhang**</u>, <u>**Qi Wang**</u>, David Galindo, Yang Xiang
-
-    The 3rd IEEE International Conference on Blockchain and Cryptocurrency (**ICBC'21**), online, May 3-6, 2021.
-
-- **An Offline Delegatable Cryptocurrency System** <Badge text="Poster" />
-  
-    <u>**Rujia Li**</u>, Qin Wang, <u>**Xinrui Zhang**</u>, <u>**Qi Wang**</u>, David Galindo, Yang Xiang
-
-    28th Annual Network and Distributed System Security Symposium, (**NDSS 2021**), virtually, Feb. 21-25, 2021
-
-- **A Weak Consensus Algorithm and Its Application to High-Performance Blockchain** <Badge text="Poster" />
-  
-    Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>
-
-    28th Annual Network and Distributed System Security Symposium, (**NDSS 2021**), virtually, Feb. 21-25, 2021
-
-### 2020
-
-- **An Accountable Decryption System Based on Privacy-Preserving Smart Contracts**
-
-    <u>**Rujia Li**</u>, Qin Wang, <u>**Feng Liu**</u>, <u>**Qi Wang**</u>, David Galindo
-
-    The 23rd International Conference on Information Security (ISC'20), Bali, Indonesia, Dec. 16-18, 2020
-
-- **An Improvement of Multi-Exponentiation with Encrypted Bases Argument: Smaller and Faster**
-  
-    <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
-
-    The 16th International Conference on Information Security and Cryptology (Inscrypt'20), Guangzhou, China, Dec. 11-14, 2020.  [[ePrint](https://eprint.iacr.org/2020/567)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r0A2vDcMbE_xz74Gy?e=NH91na)]
-
-- **Transparent Certificate Revocation for CBE Based on Blockchain** <Badge text="Poster" />
-  
-    Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>, David Galindo
-
-    The 41st IEEE Symposium on Security and Privacy (**S&P'20**), online, May 18-20, 2020
-
-### 2019
-
-- **IBRS: an efficient identity-based batch verification scheme for VANETs based on ring signature**
-
-    <u>**Feng Liu**</u> and <u>**Qi Wang**</u>
-
-    The 2019 IEEE Vehicular Networking Conference (**VNC'19**), Los Angeles, California, USA, Dec. 4-6, 2019.
-
-
-- **Auditable credential anonymity revocation based on privacy-preserving smart contracts**
-  
-    <u>**Rujia Li**</u>, David Galindo, <u>**Qi Wang**</u>
-
-    The 3rd International Workshop on Cryptocurrencies and Blockchain Technology (**CBT'19**), LNCS no. 11737, Luxembourg, Sep. 26-27, 2019
-
-
-
-
-
-
-
-
+- [Cryptography and Security](./#cryptography) 
 
 
 ## Coding theory and Combinatorics
 
+### 2024
+
+- **On the size distribution of the fixed-length Levenshtein balls with radius one**<Badge text="Alpha" />
+    
+    <u>**Geyang Wang**</u>, <u>**Qi Wang**</u>
+
+    Designs, Codes and Cryptography (DCC), vol. 92, no. 4, pp. 2253-2265, 2024.
+
+- **Two families of linear codes with desirable properties from some functions over finite fields**
+  
+    Ziling Heng, <u>**Xiaoru Li**</u>, Yansheng Wu, <u>**Qi Wang**</u>
+
+    IEEE Transactions on Information Theory (TIT), vol. 70, no. 11, pp. 8320-8342, 2024.
+
 ### 2023
+
 - **The solution to an open problem on the bentness of Mesnager's functions**
 
     Chunming Tang,  Peng Han,  <u>**Qi Wang**</u>, Jun Zhang,  Yanfeng Qi
@@ -414,6 +286,171 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
     IEEE Transactions on Information Theory, vol. 56, no. 4, pp. 1729-1736, 2010
 
+
+
+## Cryptography and Security
+
+### 2024
+
+- **Less is More: Understanding Word-level Textual Adversarial Attack via n-gram Frequency Descend**
+  
+  <u>**Ning Lu**</u>, Shengcai Liu, Zhirui Zhang, <u>**Qi Wang**</u>, Haifeng Liu, Ke Tang
+
+  In Proceedings of The IEEE Conference on Artificial Intelligence (CAI 2024), Singapore, Jun. 25-27, 2024.
+
+- **PrivShape: Extracting shapes in time series under user-level local differential privacy**
+
+    <u>**Yulian Mao**</u>, Qingqing Ye, Haibo Hu, <u>**Qi Wang**</u>, Kai Huang
+
+    In Proceedings of The 40th IEEE International Conference on Data Engineering (ICDE 2024), Utrecht, Netherlands, May 13-17, 2024.
+
+- **Large Language Models can be Guided to Evade AI-generated Text Detection**
+  
+  <u>**Ning Lu**</u>, Shengcai Liu, Rui He, Yew-Soon Ong, <u>**Qi Wang**</u>, Ke Tang
+
+  Transactions on Machine Learning Research (TMLR), 2024.
+
+- **Differential privacy for time series: A survey**
+
+    <u>**Yulian Mao**</u>, Qingqing Ye, <u>**Qi Wang**</u>, Haibo Hu
+
+    IEEE Data Engineering Bulletin (DE Bulletin), vol. 47, no. 2, pp. 67-92, 2024.
+
+- **Utility-aware time series data release with anomalies under TLDP**
+  
+    <u>**Yulian Mao**</u>, Qingqing Ye, <u>**Qi Wang**</u>, Haibo Hu
+
+    IEEE Transactions on Mobile Computing (TMC), vol. 23, no. 6, pp. 7135-7147, 2024.
+
+### 2023
+
+
+- **Robust publicly verifiable covert security: limited information leakage and guaranteed correctness with low overhead**
+  
+    <u>**Yi Liu**</u>, Junzuo Lai, <u>**Qi Wang**</u>, Xianrui Qin, Anjia Yang, Jian Weng
+
+    In Proceedings of The 29th Annual International Conference on the Theory and Applications of Cryptology and Information Security (Asiacrypt 2023), Guangzhou, China, Dec. 4-8, 2023.
+
+
+- **Transparent registration-based encryption through blockchain**
+  
+    Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>,  David Galindo, Shiping Chen, Yang Xiang
+
+    ACM Distributed Ledger Technologies: Research and Practice, vol. 2, no. 1, pp. 1-14, 2023.
+
+
+- **Time-manipulation attack: breaking fairness against proof of authority Aura**
+
+    <u>**Xinrui Zhang**</u>, <u>**Rujia Li**</u>, Qin Wang, <u>**Qi Wang**</u>
+
+    The 2023 ACM Web Conference (WWW), Austin, USA, Apr. 30-May 4, 2023.
+
+### 2022
+
+- **Towards practical homomorphic time-lock puzzles: applicability and verifiability**
+  
+    <u>**Yi Liu**</u>, <u>**Qi Wang**</u>, Siu-Ming Yiu 
+
+    The 27th European Symposium on Research in Computer Security (ESORICS'22), Copenhagen, Denmark, Sep. 26-30, 2022.
+
+- **SoK: TEE-assisted confidential smart contract**
+  
+    <u>**Rujia Li**</u>, Qin Wang,  <u>**Qi Wang**</u>, David Galindo, Mark Ryan
+
+    The 22nd Privacy Enhancing Technologies Symposium (PETS'22), Sydney, Australia, Jul. 11-15, 2022
+
+- **Exploring unfairness on proof of authority: order manipulation attacks and remidies**
+  
+    Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>, Shiping Chen, Yang Xiang
+
+    The 17th ACM ASIA Conference on Computer and Communications Security (ASIACCS'22), Nagasaki, Japan, May 30-June 2, 2022
+
+- **Frontrunning block attack in PoA Clique: a case study**
+  
+    <u>**Xinrui Zhang**</u>, Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>
+
+    The 4th IEEE International Conference on Blockchain and Cryptocurrency (ICBC'22), online, May 2-5, 2022
+
+
+- **Making Private Function Evaluation Safer, Faster, and Simpler**
+  
+    <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
+
+    The 25th International Conference on Practice and Theory of Public-Key Cryptography (PKC 2022), virtually, March 8–11, 2022. [[ePrint](https://eprint.iacr.org/2021/1682)]
+
+
+### 2021
+
+- **Improved Zero-Knowledge Argument of Encrypted Extended Permutation**
+  
+    <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
+
+    The 17th International Conference on Information Security and Cryptology (**Inscrypt'21**), virtually, Aug. 12-14, 2021. [[ePrint](https://eprint.iacr.org/2021/1430)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r4lFUZ0hVzNpJfVbV?e=MP4v6i)]
+
+- **Blind Polynomial Evaluation and Data Trading**
+  
+    <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
+
+    The 19th International Conference on Applied Cryptography and Network Security (**ACNS'21**), online, Kamakura, Japan, Jun. 21-24, 2021. [[ePrint](https://eprint.iacr.org/2021/413)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r3mbt0dabEcLzhFoH?e=R6uZuh)]
+
+- **A Weak Consensus Algorithm and Its Application to High-Performance Blockchain**
+
+    Qin Wang, <u>**Rujia Li**</u>
+
+    40th IEEE Conference on Computer Communications (**INFOCOM 2021**), Online, Vancouver, BC, Canada, May 10-13, 2021
+
+- **An offline delegatable cryptocurrency system** 
+  
+    <u>**Rujia Li**</u>, Qin Wang, <u>**Xinrui Zhang**</u>, <u>**Qi Wang**</u>, David Galindo, Yang Xiang
+
+    The 3rd IEEE International Conference on Blockchain and Cryptocurrency (**ICBC'21**), online, May 3-6, 2021.
+
+- **An Offline Delegatable Cryptocurrency System** <Badge text="Poster" />
+  
+    <u>**Rujia Li**</u>, Qin Wang, <u>**Xinrui Zhang**</u>, <u>**Qi Wang**</u>, David Galindo, Yang Xiang
+
+    28th Annual Network and Distributed System Security Symposium, (**NDSS 2021**), virtually, Feb. 21-25, 2021
+
+- **A Weak Consensus Algorithm and Its Application to High-Performance Blockchain** <Badge text="Poster" />
+  
+    Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>
+
+    28th Annual Network and Distributed System Security Symposium, (**NDSS 2021**), virtually, Feb. 21-25, 2021
+
+### 2020
+
+- **An Accountable Decryption System Based on Privacy-Preserving Smart Contracts**
+
+    <u>**Rujia Li**</u>, Qin Wang, <u>**Feng Liu**</u>, <u>**Qi Wang**</u>, David Galindo
+
+    The 23rd International Conference on Information Security (ISC'20), Bali, Indonesia, Dec. 16-18, 2020
+
+- **An Improvement of Multi-Exponentiation with Encrypted Bases Argument: Smaller and Faster**
+  
+    <u>**Yi Liu**</u>, <u>**<u>**Qi Wang**</u>**</u>, Siu-Ming Yiu 
+
+    The 16th International Conference on Information Security and Cryptology (Inscrypt'20), Guangzhou, China, Dec. 11-14, 2020.  [[ePrint](https://eprint.iacr.org/2020/567)] [[Slides](https://1drv.ms/p/s!At50T0g9p5_r0A2vDcMbE_xz74Gy?e=NH91na)]
+
+- **Transparent Certificate Revocation for CBE Based on Blockchain** <Badge text="Poster" />
+  
+    Qin Wang, <u>**Rujia Li**</u>, <u>**Qi Wang**</u>, David Galindo
+
+    The 41st IEEE Symposium on Security and Privacy (**S&P'20**), online, May 18-20, 2020
+
+### 2019
+
+- **IBRS: an efficient identity-based batch verification scheme for VANETs based on ring signature**
+
+    <u>**Feng Liu**</u> and <u>**Qi Wang**</u>
+
+    The 2019 IEEE Vehicular Networking Conference (**VNC'19**), Los Angeles, California, USA, Dec. 4-6, 2019.
+
+
+- **Auditable credential anonymity revocation based on privacy-preserving smart contracts**
+  
+    <u>**Rujia Li**</u>, David Galindo, <u>**Qi Wang**</u>
+
+    The 3rd International Workshop on Cryptocurrencies and Blockchain Technology (**CBT'19**), LNCS no. 11737, Luxembourg, Sep. 26-27, 2019
 
 
 
