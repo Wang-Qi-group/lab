@@ -55,7 +55,7 @@ His research interests include Post-quantum cryptography.
 - **Southern University of Science and Technology (SUSTech)** *Sept. 2024 – Present* 
   - Postgraduate student in Electronics Science and Technology
   - Supervisor: [Prof. Qi Wang](http://cse.sustech.edu.cn/faculty/~wangqi/) (SUSTech)
-- **Anhui University** *Sept. 2010 – July 2024*
+- **Anhui University** *Sept. 2020 – July 2024*
   - B.S in Statistics
 
 
