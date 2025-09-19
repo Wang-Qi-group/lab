@@ -113,7 +113,7 @@ title: Members
 
 
 
-<ProfileCard image="/members/huxuanwei.jpg" hideBorder=true>
+<!-- <ProfileCard image="/members/huxuanwei.jpg" hideBorder=true>
 
   <span style="font-size: 20px">**Xuanwei Hu**</span>
 
@@ -128,7 +128,7 @@ title: Members
 [[More Information](/members/huxuanwei.md)]
   
 
-</ProfileCard>
+</ProfileCard> -->
 
 
 
@@ -167,6 +167,21 @@ His research interests include Post-quantum cryptography.
 
 </ProfileCard>
 
+<ProfileCard image="/members/xutianheng.jpg" hideBorder=true>
+
+  <span style="font-size: 20px">**Tianheng Xu**</span>
+
+  :round_pushpin:	 Office 550, South Tower, CoE Building, SUSTech
+
+  ---
+
+He is a master student at Computer Science Department of Southern University of Science and Technology (SUSTech). His research interests are in Trusted Execution Environment (TEE).
+  
+[[More Information](/members/xutianheng.md)]
+  
+
+</ProfileCard>
+
 <!--## Undergraduate Student-->
 
 
@@ -189,7 +204,14 @@ His research interests include Post-quantum cryptography.
 <!-- <ProfileCard image="/members/liufeng.jpg" hideBorder=true> -->
 
 ### Former RAs, graduate students, and postdocs
+<ProfileCard image="/members/huxuanwei.jpg" hideBorder=true>
 
+  <span style="font-size: 20px">**Xuanwei Hu**</span>
+
+  - Master 2025
+  - **Now**: Huawei Technologies Co., Ltd
+
+</ProfileCard>
 
 <ProfileCard image="/members/lijiaqi.jpg" hideBorder=true>
 

@@ -20,6 +20,20 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
 ## Coding theory and Combinatorics
 
+### 2025
+
+- **On the maximum size of variable-length non-overlapping codes**
+
+    <u>**Geyang Wang**</u>, <u>**Qi Wang**</u>
+
+    Designs, Codes and Cryptography (DCC), vol. 93, no. 4, pp. 871-878, 2025.
+
+- **Quasi complementary sequence sets: New bounds and optimal constructions via quasi-Florentine Rectangles**
+
+    Avik Ranjan Adhikary, Hui Zhang, Zhengchun Zhou, <u>**Qi Wang**</u>, Sihem Mesnager
+
+    IEEE Transactions on Information Theory (TIT), vol. 71, no. 3, pp. 2271-2291, 2025.
+
 ### 2024
 
 - **On the size distribution of the fixed-length Levenshtein balls with radius one**<Badge text="Alpha" />
@@ -289,6 +303,51 @@ Papers marked with <Badge text="Alpha" /> use alphabetic ordering of authors, fo
 
 
 ## Cryptography and Security
+
+### 2025
+
+- **Safe Delta: Consistently preserving safety when fine-tuning LLMs on diverse datasets**
+
+     <u>**Ning Lu**</u>, Shengcai Liu, Jiahao Wu, Weiyu Chen, Zhirui Zhang, Yew-Soon Ong,  <u>**Qi Wang**</u>, Ke Tang
+
+     In Proceedings of The 42nd International Conference on Machine Learning (ICML 2025), Vancouver, Canada, July 13-19, 2025.
+
+- **Multi-class item mining under local differential privacy**
+  
+    <u>**Yulian Mao**</u>, Qingqing Ye, Rong Du, <u>**Qi Wang**</u>, Kai Huang, Haibo Hu
+
+    In Proceedings of The 41st IEEE International Conference on Data Engineering (ICDE 2025), Hong Kong SAR, China, May 19-23, 2025.
+
+- **Towards efficient and practical multi-party computation under inconsistent trust in TEEs**
+  
+    <u>**Xuanwei Hu**</u>, <u>**Rujia Li**</u>, <u>**Yi Liu**</u>, <u>**Qi Wang**</u>
+
+    In Proceedings of The 46th IEEE Symposium on Security and Privacy (S&P 2025), San Francisco, USA, May 12-15, 2025.
+
+- **Highly efficient actively secure two-party computation with one-bit advantage bound** 
+  
+    <u>**Yi Liu**</u>, Junzuo Lai, Peng Yang, Anjia Yang, <u>**Qi Wang**</u>, Siu-Ming Yiu, Jian Weng
+
+    In Proceedings of The 46th IEEE Symposium on Security and Privacy (S&P 2025), San Francisco, USA, May 12-15, 2025.
+
+- **Understanding security issues in the DAO governance process**
+  
+    Junjie Ma, Muhui Jiang, Jinan Jiang, Xiapu Luo, Yufeng Hu, Yajin Zhou, <u>**Qi Wang**</u>, Fengwei Zhang
+
+    IEEE Transactions on Software Engineering (TSE), vol. 51, no. 4, pp. 1188-1204, 2025.
+
+- **Accountable decryption made formal and practical** 
+
+    <u>**Rujia Li**</u>, <u>**Yuanzhao Li**</u>, Qin Wang, Sisi Duan, <u>**Qi Wang**</u>, Mark Ryan
+
+    IEEE Transactions on Information Forensics and Security (TIFS), vol. 20, pp. 620-635, 2025.
+
+- **Bringing smart contract confidentiality via trusted hardware: Fact and fiction**
+
+    <u>**Rujia Li**</u>, Qin Wang, <u>**Yuanzhao Li**</u>, Sisi Duan, <u>**Qi Wang**</u>, David Galindo
+
+    IEEE Transactions on Information Forensics and Security (TIFS), vol. 20, pp. 159-174, 2025.
+
 
 ### 2024
 
